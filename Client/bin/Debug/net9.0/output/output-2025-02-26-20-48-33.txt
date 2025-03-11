@@ -1,0 +1,26 @@
+using System;
+
+n
+{
+    cl
+    {
+        st
+        {
+            Console.WriteLine("Начало программы"); 
+
+            int 
+            int b = 20; 
+
+            
+            int sum = 
+            Console.WriteLine($"Сумма: {sum}");
+
+            
+            int product = 
+            Console.WriteLine($"Произведение: {product}");
+
+            
+            Console.WriteLine("Конец программы");
+        }
+    }
+}

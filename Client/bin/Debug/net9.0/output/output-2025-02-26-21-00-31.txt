@@ -1,0 +1,26 @@
+using System;
+
+namespace CommentExample
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Начало программы"); 
+
+            
+            
+
+            
+            
+            Console.WriteLine($"Сумма: {sum}");
+
+            
+            
+            Console.WriteLine($"Произведение: {product}");
+
+            
+            Console.WriteLine("Конец программы");
+        }
+    }
+}

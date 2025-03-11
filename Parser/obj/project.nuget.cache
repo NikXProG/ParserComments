@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ftMdsao8ig4=",
+  "success": true,
+  "projectFilePath": "/Users/nikx/RiderProjects/ParserComments/Parser/Parser.csproj",
+  "expectedPackageFiles": [
+    "/Users/nikx/.nuget/packages/microsoft.extensions.configuration.abstractions/10.0.0-preview.1.25080.5/microsoft.extensions.configuration.abstractions.10.0.0-preview.1.25080.5.nupkg.sha512",
+    "/Users/nikx/.nuget/packages/microsoft.extensions.primitives/10.0.0-preview.1.25080.5/microsoft.extensions.primitives.10.0.0-preview.1.25080.5.nupkg.sha512",
+    "/Users/nikx/.nuget/packages/serilog/4.2.1-dev-02340/serilog.4.2.1-dev-02340.nupkg.sha512",
+    "/Users/nikx/.nuget/packages/serilog.sinks.console/6.0.1-dev-00953/serilog.sinks.console.6.0.1-dev-00953.nupkg.sha512",
+    "/Users/nikx/.nuget/packages/system.commandline/2.0.0-beta4.22272.1/system.commandline.2.0.0-beta4.22272.1.nupkg.sha512"
+  ],
+  "logs": []
+}

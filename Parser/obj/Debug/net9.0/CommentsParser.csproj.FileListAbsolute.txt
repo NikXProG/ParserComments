@@ -1,0 +1,12 @@
+/Users/nikx/RiderProjects/ParserComments/CommentsParser/bin/Debug/net9.0/CommentsParser.deps.json
+/Users/nikx/RiderProjects/ParserComments/CommentsParser/bin/Debug/net9.0/CommentsParser.dll
+/Users/nikx/RiderProjects/ParserComments/CommentsParser/bin/Debug/net9.0/CommentsParser.pdb
+/Users/nikx/RiderProjects/ParserComments/CommentsParser/obj/Debug/net9.0/CommentsParser.csproj.AssemblyReference.cache
+/Users/nikx/RiderProjects/ParserComments/CommentsParser/obj/Debug/net9.0/CommentsParser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikx/RiderProjects/ParserComments/CommentsParser/obj/Debug/net9.0/CommentsParser.AssemblyInfoInputs.cache
+/Users/nikx/RiderProjects/ParserComments/CommentsParser/obj/Debug/net9.0/CommentsParser.AssemblyInfo.cs
+/Users/nikx/RiderProjects/ParserComments/CommentsParser/obj/Debug/net9.0/CommentsParser.csproj.CoreCompileInputs.cache
+/Users/nikx/RiderProjects/ParserComments/CommentsParser/obj/Debug/net9.0/CommentsParser.dll
+/Users/nikx/RiderProjects/ParserComments/CommentsParser/obj/Debug/net9.0/refint/CommentsParser.dll
+/Users/nikx/RiderProjects/ParserComments/CommentsParser/obj/Debug/net9.0/CommentsParser.pdb
+/Users/nikx/RiderProjects/ParserComments/CommentsParser/obj/Debug/net9.0/ref/CommentsParser.dll

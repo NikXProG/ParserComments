@@ -1,0 +1,12 @@
+/Users/nikx/RiderProjects/ParserComments/Parser/obj/Debug/net9.0/Parser.csproj.AssemblyReference.cache
+/Users/nikx/RiderProjects/ParserComments/Parser/obj/Debug/net9.0/Parser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikx/RiderProjects/ParserComments/Parser/obj/Debug/net9.0/Parser.AssemblyInfoInputs.cache
+/Users/nikx/RiderProjects/ParserComments/Parser/obj/Debug/net9.0/Parser.AssemblyInfo.cs
+/Users/nikx/RiderProjects/ParserComments/Parser/obj/Debug/net9.0/Parser.csproj.CoreCompileInputs.cache
+/Users/nikx/RiderProjects/ParserComments/Parser/bin/Debug/net9.0/Parser.deps.json
+/Users/nikx/RiderProjects/ParserComments/Parser/bin/Debug/net9.0/Parser.dll
+/Users/nikx/RiderProjects/ParserComments/Parser/bin/Debug/net9.0/Parser.pdb
+/Users/nikx/RiderProjects/ParserComments/Parser/obj/Debug/net9.0/Parser.dll
+/Users/nikx/RiderProjects/ParserComments/Parser/obj/Debug/net9.0/refint/Parser.dll
+/Users/nikx/RiderProjects/ParserComments/Parser/obj/Debug/net9.0/Parser.pdb
+/Users/nikx/RiderProjects/ParserComments/Parser/obj/Debug/net9.0/ref/Parser.dll

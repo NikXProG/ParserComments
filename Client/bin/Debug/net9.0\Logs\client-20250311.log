@@ -1,0 +1,16 @@
+{"@t":"2025-03-11T12:37:57.5181980+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-03-11T12:37:57.5560120+03:00","@mt":"Outputting to console:  {console}","console":true}
+{"@t":"2025-03-11T12:37:57.5578980+03:00","@mt":"Outputting to file {file} at path: {path}","file":true,"path":"%BASEDIR%\\output\\output-.txt"}
+{"@t":"2025-03-11T12:37:57.5582270+03:00","@mt":"Reading from console... (Press 'Esc' to parse, 'Enter' for new line)"}
+{"@t":"2025-03-11T12:38:47.4911230+03:00","@mt":"\nldkflfdff #sdfsadlkad\n#sdlfksaldkldsak\n\n"}
+{"@t":"2025-03-11T12:38:47.4930700+03:00","@mt":"Output written to: {path}","path":"/Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-03-11-12-38-47.txt"}
+{"@t":"2025-03-11T12:38:47.4931960+03:00","@mt":"Enter new input or press 'Esc' to exit."}
+{"@t":"2025-03-11T12:39:00.9570680+03:00","@mt":"Exiting..."}
+{"@t":"2025-03-11T12:39:00.9593400+03:00","@mt":"Reading file: {path}","path":"/Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out.txt"}
+{"@t":"2025-03-11T12:39:00.9600440+03:00","@mt":"\nAsdf/.,ds.,asadass.dmalsdsaldjsakld\nLadsjlsajdklsajdklsadjklasdjs\nAlsdjsaljdsaldjsakldjadklas\nLaksdlksadklsakdlsakdjlasklaskdlas\nAskldsajdalskdjlkdsakld\n\nSfdadldjsajdaksdsaklsdjasldksa\nAlksdasldsakjd\nAldjlaskjdsald\n\n\n"}
+{"@t":"2025-03-11T12:39:00.9606490+03:00","@mt":"Output written to: {path}","path":"/Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-03-11-12-39-00.txt"}
+{"@t":"2025-03-11T12:39:00.9609390+03:00","@mt":"Reading file: {path}","path":"/Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out2.txt"}
+{"@t":"2025-03-11T12:39:00.9613810+03:00","@mt":"\nusing System;\n\nnamespace CommentExample\n{\n    class Program\n    {\n        static void Main(string[] args)\n        {\n            Console.WriteLine(\"Начало программы\"); \n\n            \n            \n\n            \n            \n            Console.WriteLine($\"Сумма: {sum}\");\n\n            \n            \n            Console.WriteLine($\"Произведение: {product}\");\n\n            \n            Console.WriteLine(\"Конец программы\");\n        }\n    }\n}\n"}
+{"@t":"2025-03-11T12:39:00.9620500+03:00","@mt":"Output written to: {path}","path":"/Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-03-11-12-39-00.txt"}
+{"@t":"2025-03-11T12:39:00.9624240+03:00","@mt":"Parsing {count} files","count":2}
+{"@t":"2025-03-11T12:39:00.9631380+03:00","@mt":"Ending parse from Parser"}

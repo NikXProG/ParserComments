@@ -1,0 +1,12 @@
+/Users/nikx/RiderProjects/ParserComments/Client.Core/bin/Debug/net9.0/Client.Core.deps.json
+/Users/nikx/RiderProjects/ParserComments/Client.Core/bin/Debug/net9.0/Client.Core.dll
+/Users/nikx/RiderProjects/ParserComments/Client.Core/bin/Debug/net9.0/Client.Core.pdb
+/Users/nikx/RiderProjects/ParserComments/Client.Core/obj/Debug/net9.0/Client.Core.csproj.AssemblyReference.cache
+/Users/nikx/RiderProjects/ParserComments/Client.Core/obj/Debug/net9.0/Client.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikx/RiderProjects/ParserComments/Client.Core/obj/Debug/net9.0/Client.Core.AssemblyInfoInputs.cache
+/Users/nikx/RiderProjects/ParserComments/Client.Core/obj/Debug/net9.0/Client.Core.AssemblyInfo.cs
+/Users/nikx/RiderProjects/ParserComments/Client.Core/obj/Debug/net9.0/Client.Core.csproj.CoreCompileInputs.cache
+/Users/nikx/RiderProjects/ParserComments/Client.Core/obj/Debug/net9.0/Client.Core.dll
+/Users/nikx/RiderProjects/ParserComments/Client.Core/obj/Debug/net9.0/refint/Client.Core.dll
+/Users/nikx/RiderProjects/ParserComments/Client.Core/obj/Debug/net9.0/Client.Core.pdb
+/Users/nikx/RiderProjects/ParserComments/Client.Core/obj/Debug/net9.0/ref/Client.Core.dll

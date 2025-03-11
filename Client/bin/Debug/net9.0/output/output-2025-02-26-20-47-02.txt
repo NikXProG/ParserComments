@@ -1,0 +1,33 @@
+using System;
+
+namespace CommentExample
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Начало программы"); 
+
+            int a = 10; 
+            int b = 20; 
+
+            
+            int sum = a + b; 
+            Console.WriteLine($"Сумма: {sum}");
+
+            /* 
+             * Этот блок кода демонстрирует умножение.
+             * Он используется для проверки математических операций.
+             */
+            int product = a * b; /* Умножаем a и b */
+            Console.WriteLine($"Произведение: {product}");
+
+            /* Вложенные комментарии:
+             * /*
+             * Внутренний комментарий
+             * */
+             */
+            Console.WriteLine("Конец программы");
+        }
+    }
+}

@@ -1,0 +1,810 @@
+{"@t":"2025-02-26T12:24:55.5779510+03:00","@mt":"Starting parser"}
+{"@t":"2025-02-26T12:25:12.7477950+03:00","@mt":"Starting parser"}
+{"@t":"2025-02-26T12:26:45.1730910+03:00","@mt":"Starting parser"}
+{"@t":"2025-02-26T12:27:36.4282010+03:00","@mt":"Starting parser"}
+{"@t":"2025-02-26T12:27:36.4626550+03:00","@mt":"Application start up failed","@l":"Fatal"}
+{"@t":"2025-02-26T12:30:14.5256390+03:00","@mt":"Starting parser"}
+{"@t":"2025-02-26T12:36:23.5087050+03:00","@mt":"Starting parser"}
+{"@t":"2025-02-26T13:07:40.3733060+03:00","@mt":"Starting parser {parse :G}"}
+{"@t":"2025-02-26T13:08:03.2496690+03:00","@mt":"Starting parser {CommentsParser :G}"}
+{"@t":"2025-02-26T13:08:26.5286710+03:00","@mt":"Starting parser CommentsParser"}
+{"@t":"2025-02-26T13:08:41.4710850+03:00","@mt":"Starting parse for  CommentsParser"}
+{"@t":"2025-02-26T13:08:49.0839030+03:00","@mt":"Starting parse from CommentsParser"}
+{"@t":"2025-02-26T13:09:23.8737650+03:00","@mt":"Starting parse from CommentsParser"}
+{"@t":"2025-02-26T13:09:23.9131520+03:00","@mt":"Parsing 0 files"}
+{"@t":"2025-02-26T13:10:51.0704790+03:00","@mt":"Starting parse from CommentsParser"}
+{"@t":"2025-02-26T13:10:51.1084540+03:00","@mt":"Parsing 0 files"}
+{"@t":"2025-02-26T13:10:51.1086140+03:00","@mt":"Ending parse from CommentsParser"}
+{"@t":"2025-02-26T13:38:37.4123550+03:00","@mt":"Starting parse from CommentsParser"}
+{"@t":"2025-02-26T13:38:37.4472300+03:00","@mt":"Parsing 0 files"}
+{"@t":"2025-02-26T13:38:37.4473310+03:00","@mt":"Ending parse from CommentsParser"}
+{"@t":"2025-02-26T15:42:27.0486150+03:00","@mt":"Application start up failed","@l":"Fatal"}
+{"@t":"2025-02-26T15:43:43.7754920+03:00","@mt":"Application start up failed","@l":"Fatal"}
+{"@t":"2025-02-26T15:47:04.3638680+03:00","@mt":"Starting parse from CommentsParser"}
+{"@t":"2025-02-26T15:47:04.3983720+03:00","@mt":"Parsing 0 files"}
+{"@t":"2025-02-26T15:47:04.3984680+03:00","@mt":"Ending parse from CommentsParser"}
+{"@t":"2025-02-26T15:56:44.7383040+03:00","@mt":"Application start up failed","@l":"Fatal"}
+{"@t":"2025-02-26T16:07:28.4065150+03:00","@mt":"Application start up failed","@l":"Fatal"}
+{"@t":"2025-02-26T16:07:43.3998430+03:00","@mt":"Application start up failed","@l":"Fatal"}
+{"@t":"2025-02-26T16:14:16.0918210+03:00","@mt":"Starting parse from CommentsParser"}
+{"@t":"2025-02-26T16:14:16.1255750+03:00","@mt":"Парсинг комментариев отключен."}
+{"@t":"2025-02-26T16:14:16.1256710+03:00","@mt":"Ending parse from CommentsParser"}
+{"@t":"2025-02-26T16:32:38.7702970+03:00","@mt":"Starting parse from CommentsParser"}
+{"@t":"2025-02-26T16:32:38.8034070+03:00","@mt":"Parsing 0 files"}
+{"@t":"2025-02-26T16:32:38.8035030+03:00","@mt":"Ending parse from CommentsParser"}
+{"@t":"2025-02-26T16:33:14.8960900+03:00","@mt":"Starting parse from CommentsParser"}
+{"@t":"2025-02-26T16:33:14.9323260+03:00","@mt":"Parsing 2 files"}
+{"@t":"2025-02-26T16:33:14.9324320+03:00","@mt":"Ending parse from CommentsParser"}
+{"@t":"2025-02-26T16:38:19.1425160+03:00","@mt":"Starting parse from CommentsParser"}
+{"@t":"2025-02-26T16:38:19.1756780+03:00","@mt":"Парсинг комментариев отключен."}
+{"@t":"2025-02-26T16:38:19.1757700+03:00","@mt":"Ending parse from CommentsParser"}
+{"@t":"2025-02-26T16:38:44.3873040+03:00","@mt":"Starting parse from CommentsParser"}
+{"@t":"2025-02-26T16:38:44.4218500+03:00","@mt":"Comment parsing is disabled."}
+{"@t":"2025-02-26T16:38:44.4219640+03:00","@mt":"Ending parse from CommentsParser"}
+{"@t":"2025-02-26T16:40:38.0353310+03:00","@mt":"Starting parse from CommentsParser"}
+{"@t":"2025-02-26T16:40:38.0687190+03:00","@mt":"Parsing 2 files"}
+{"@t":"2025-02-26T16:40:38.0688170+03:00","@mt":"Ending parse from CommentsParser"}
+{"@t":"2025-02-26T16:41:27.5952150+03:00","@mt":"Starting parse from CommentsParser"}
+{"@t":"2025-02-26T16:41:27.6289870+03:00","@mt":"Comment parsing is disabled."}
+{"@t":"2025-02-26T16:41:27.6290930+03:00","@mt":"Ending parse from CommentsParser"}
+{"@t":"2025-02-26T16:41:43.5204790+03:00","@mt":"Starting parse from CommentsParser"}
+{"@t":"2025-02-26T16:41:43.5538730+03:00","@mt":"Parsing 2 files"}
+{"@t":"2025-02-26T16:41:43.5540040+03:00","@mt":"Ending parse from CommentsParser"}
+{"@t":"2025-02-26T16:43:43.0153040+03:00","@mt":"Starting parse from CommentsParser"}
+{"@t":"2025-02-26T16:43:43.0504660+03:00","@mt":"Parsing 2 files"}
+{"@t":"2025-02-26T16:43:43.0505760+03:00","@mt":"Ending parse from CommentsParser"}
+{"@t":"2025-02-26T16:44:08.5869370+03:00","@mt":"Starting parse from CommentsParser"}
+{"@t":"2025-02-26T16:44:08.6192900+03:00","@mt":"Parsing 2 files"}
+{"@t":"2025-02-26T16:44:08.6194020+03:00","@mt":"Ending parse from CommentsParser"}
+{"@t":"2025-02-26T16:45:57.5056600+03:00","@mt":"Starting parse from CommentsParser"}
+{"@t":"2025-02-26T16:45:57.5388620+03:00","@mt":"Parsing 2 files"}
+{"@t":"2025-02-26T16:45:57.5389560+03:00","@mt":"Ending parse from CommentsParser"}
+{"@t":"2025-02-26T16:59:24.5639170+03:00","@mt":"Starting parse from CommentsParser"}
+{"@t":"2025-02-26T16:59:24.5995280+03:00","@mt":"Файл не найден: file.txt","@l":"Warning"}
+{"@t":"2025-02-26T16:59:24.5996750+03:00","@mt":"Файл не найден: data.csv","@l":"Warning"}
+{"@t":"2025-02-26T16:59:24.6034970+03:00","@mt":"Parsing 2 files"}
+{"@t":"2025-02-26T16:59:24.6036400+03:00","@mt":"Ending parse from CommentsParser"}
+{"@t":"2025-02-26T16:59:24.6045560+03:00","@mt":"Освобождение ресурсов парсера..."}
+{"@t":"2025-02-26T16:59:24.6049230+03:00","@mt":"Application start up failed","@l":"Fatal"}
+{"@t":"2025-02-26T17:02:21.0097050+03:00","@mt":"Starting parse from CommentsParser"}
+{"@t":"2025-02-26T17:02:21.0451580+03:00","@mt":"Файл не найден: file.txt","@l":"Warning"}
+{"@t":"2025-02-26T17:02:21.0453060+03:00","@mt":"Файл не найден: data.csv","@l":"Warning"}
+{"@t":"2025-02-26T17:02:21.0488550+03:00","@mt":"Parsing 2 files"}
+{"@t":"2025-02-26T17:02:21.0489150+03:00","@mt":"Ending parse from CommentsParser"}
+{"@t":"2025-02-26T17:02:21.0491660+03:00","@mt":"Освобождение ресурсов парсера..."}
+{"@t":"2025-02-26T17:07:03.3521630+03:00","@mt":"Starting parse from CommentsParser"}
+{"@t":"2025-02-26T17:07:03.3982780+03:00","@mt":"Файл не найден: file.txt","@l":"Warning"}
+{"@t":"2025-02-26T17:07:03.3984800+03:00","@mt":"Файл не найден: data.csv","@l":"Warning"}
+{"@t":"2025-02-26T17:07:03.4027580+03:00","@mt":"Parsing 2 files"}
+{"@t":"2025-02-26T17:07:03.4028230+03:00","@mt":"Ending parse from CommentsParser"}
+{"@t":"2025-02-26T17:07:03.4032950+03:00","@mt":"Освобождение ресурсов парсера..."}
+{"@t":"2025-02-26T17:07:03.4036580+03:00","@mt":"Application start up failed","@l":"Fatal"}
+{"@t":"2025-02-26T17:07:39.9058460+03:00","@mt":"Starting parse from CommentsParser"}
+{"@t":"2025-02-26T17:07:39.9416010+03:00","@mt":"Файл не найден: file.txt","@l":"Warning"}
+{"@t":"2025-02-26T17:07:39.9417500+03:00","@mt":"Файл не найден: data.csv","@l":"Warning"}
+{"@t":"2025-02-26T17:18:34.4791960+03:00","@mt":"Starting parse from CommentsParser"}
+{"@t":"2025-02-26T17:18:34.5148770+03:00","@mt":"Parsing 2 files"}
+{"@t":"2025-02-26T17:18:34.5149870+03:00","@mt":"Ending parse from CommentsParser"}
+{"@t":"2025-02-26T17:20:01.4604960+03:00","@mt":"Starting parse from CommentsParser"}
+{"@t":"2025-02-26T17:20:01.4947610+03:00","@mt":"Parsing 2 files"}
+{"@t":"2025-02-26T17:20:01.4948430+03:00","@mt":"Ending parse from CommentsParser"}
+{"@t":"2025-02-26T17:42:05.5292350+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T17:42:05.5639840+03:00","@mt":"Parsing 2 files"}
+{"@t":"2025-02-26T17:42:05.5640680+03:00","@mt":"Ending parse from Parser"}
+{"@t":"2025-02-26T17:42:24.3498440+03:00","@mt":"Application start up failed","@l":"Fatal"}
+{"@t":"2025-02-26T17:42:28.2564820+03:00","@mt":"Application start up failed","@l":"Fatal"}
+{"@t":"2025-02-26T17:44:30.1916370+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T17:44:30.2278360+03:00","@mt":"Parsing 2 files"}
+{"@t":"2025-02-26T17:44:30.2279470+03:00","@mt":"Ending parse from Parser"}
+{"@t":"2025-02-26T17:44:41.8137780+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T17:44:41.8468100+03:00","@mt":"Parsing 2 files"}
+{"@t":"2025-02-26T17:44:41.8469060+03:00","@mt":"Ending parse from Parser"}
+{"@t":"2025-02-26T17:59:55.3385460+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T17:59:55.3737280+03:00","@mt":"Ending parse from Parser"}
+{"@t":"2025-02-26T17:59:55.3738830+03:00","@mt":"Application start up failed","@l":"Fatal"}
+{"@t":"2025-02-26T18:17:37.2904750+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T18:17:37.3260500+03:00","@mt":"Ending parse from Parser"}
+{"@t":"2025-02-26T18:17:37.3262070+03:00","@mt":"Application start up failed","@l":"Fatal"}
+{"@t":"2025-02-26T18:18:24.9784020+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T18:18:25.0154790+03:00","@mt":"Ending parse from Parser"}
+{"@t":"2025-02-26T18:18:25.0156440+03:00","@mt":"Application start up failed","@l":"Fatal"}
+{"@t":"2025-02-26T18:36:25.6224930+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T18:36:25.6578400+03:00","@mt":"Reading from console..."}
+{"@t":"2025-02-26T18:36:38.3166520+03:00","@mt":"sdlkslsdlskdlsdlskdsldks "}
+{"@t":"2025-02-26T18:36:38.3212470+03:00","@mt":"Ending parse from Parser"}
+{"@t":"2025-02-26T18:36:38.3215800+03:00","@mt":"Application start up failed","@l":"Fatal"}
+{"@t":"2025-02-26T18:40:10.5015470+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T18:40:10.5360710+03:00","@mt":"Reading from console..."}
+{"@t":"2025-02-26T18:40:15.1913530+03:00","@mt":"zxzxzzxz"}
+{"@t":"2025-02-26T18:40:15.1944980+03:00","@mt":"Ending parse from Parser"}
+{"@t":"2025-02-26T18:40:15.1948320+03:00","@mt":"Application start up failed","@l":"Fatal"}
+{"@t":"2025-02-26T18:42:43.8009850+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T18:42:43.8349750+03:00","@mt":"Reading from console..."}
+{"@t":"2025-02-26T18:42:47.4004890+03:00","@mt":"zxsdsaddsa"}
+{"@t":"2025-02-26T18:42:47.4030470+03:00","@mt":"Ending parse from Parser"}
+{"@t":"2025-02-26T18:42:47.4035060+03:00","@mt":"Application start up failed","@l":"Fatal"}
+{"@t":"2025-02-26T18:43:18.0879080+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T18:43:18.1214020+03:00","@mt":"Reading from console..."}
+{"@t":"2025-02-26T18:43:20.6848130+03:00","@mt":"sasa"}
+{"@t":"2025-02-26T18:43:22.3406880+03:00","@mt":"sdsds"}
+{"@t":"2025-02-26T18:43:22.9108590+03:00","@mt":"sd"}
+{"@t":"2025-02-26T18:43:23.2799130+03:00","@mt":"sd"}
+{"@t":"2025-02-26T18:43:23.7127430+03:00","@mt":"sd"}
+{"@t":"2025-02-26T18:43:24.2196000+03:00","@mt":"sd"}
+{"@t":"2025-02-26T18:43:25.2814040+03:00","@mt":"sdsdsdsds"}
+{"@t":"2025-02-26T19:06:37.0364920+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T19:06:37.0809640+03:00","@mt":"Reading from console..."}
+{"@t":"2025-02-26T19:06:41.0150770+03:00","@mt":"лчсоывыфлв"}
+{"@t":"2025-02-26T19:06:42.2445090+03:00","@mt":"фывыфвфы"}
+{"@t":"2025-02-26T19:06:42.9339320+03:00","@mt":"фыв"}
+{"@t":"2025-02-26T19:06:43.1828980+03:00","@mt":"фыв"}
+{"@t":"2025-02-26T19:06:43.5898180+03:00","@mt":"фыв"}
+{"@t":"2025-02-26T19:06:44.3178590+03:00","@mt":"фыв"}
+{"@t":"2025-02-26T19:07:08.3108040+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T19:07:08.3436520+03:00","@mt":"Reading from console..."}
+{"@t":"2025-02-26T19:13:52.6316120+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T19:13:52.6667990+03:00","@mt":"File not found: file.txt","@l":"Warning"}
+{"@t":"2025-02-26T19:13:52.6669050+03:00","@mt":"File not found: data.csv","@l":"Warning"}
+{"@t":"2025-02-26T19:13:52.6669650+03:00","@mt":"Outputting to console..."}
+{"@t":"2025-02-26T19:13:52.6670320+03:00","@mt":"Outputting to file at path: %BASEDIR%/"}
+{"@t":"2025-02-26T19:13:52.6670620+03:00","@mt":"Parsing 2 files"}
+{"@t":"2025-02-26T19:13:52.6670870+03:00","@mt":"Ending parse from Parser"}
+{"@t":"2025-02-26T19:14:17.7969690+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T19:14:17.8302140+03:00","@mt":"File not found: output.txt","@l":"Warning"}
+{"@t":"2025-02-26T19:14:17.8303200+03:00","@mt":"File not found: data.csv","@l":"Warning"}
+{"@t":"2025-02-26T19:14:17.8303950+03:00","@mt":"Outputting to console..."}
+{"@t":"2025-02-26T19:14:17.8304680+03:00","@mt":"Outputting to file at path: %BASEDIR%/"}
+{"@t":"2025-02-26T19:14:17.8304970+03:00","@mt":"Parsing 2 files"}
+{"@t":"2025-02-26T19:14:17.8305210+03:00","@mt":"Ending parse from Parser"}
+{"@t":"2025-02-26T19:15:40.3745200+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T19:15:40.4109760+03:00","@mt":"File not found: out.txt","@l":"Warning"}
+{"@t":"2025-02-26T19:15:40.4110940+03:00","@mt":"File not found: data.csv","@l":"Warning"}
+{"@t":"2025-02-26T19:15:40.4111550+03:00","@mt":"Outputting to console..."}
+{"@t":"2025-02-26T19:15:40.4112190+03:00","@mt":"Outputting to file at path: %BASEDIR%/"}
+{"@t":"2025-02-26T19:15:40.4112500+03:00","@mt":"Parsing 2 files"}
+{"@t":"2025-02-26T19:15:40.4112760+03:00","@mt":"Ending parse from Parser"}
+{"@t":"2025-02-26T19:15:56.6753590+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T19:15:56.7086650+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out.txt"}
+{"@t":"2025-02-26T19:15:56.7106780+03:00","@mt":"Asdf/.,ds.,asadass.dmalsdsaldjsakld\nLadsjlsajdklsajdklsadjklasdjs\nAlsdjsaljdsaldjsakldjadklas\nLaksdlksadklsakdlsakdjlasklaskdlas\nAskldsajdalskdjlkdsakld\n\nSfdadldjsajdaksdsaklsdjasldksa\nAlksdasldsakjd\nAldjlaskjdsald"}
+{"@t":"2025-02-26T19:15:56.7110090+03:00","@mt":"File not found: data.csv","@l":"Warning"}
+{"@t":"2025-02-26T19:15:56.7110730+03:00","@mt":"Outputting to console..."}
+{"@t":"2025-02-26T19:15:56.7111050+03:00","@mt":"Outputting to file at path: %BASEDIR%/"}
+{"@t":"2025-02-26T19:15:56.7111350+03:00","@mt":"Parsing 2 files"}
+{"@t":"2025-02-26T19:15:56.7111610+03:00","@mt":"Ending parse from Parser"}
+{"@t":"2025-02-26T19:21:11.9177940+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T19:21:11.9601890+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out.txt"}
+{"@t":"2025-02-26T19:21:11.9633980+03:00","@mt":"Asdf/.,ds.,asadass.dmalsdsaldjsakld\nLadsjlsajdklsajdklsadjklasdjs\nAlsdjsaljdsaldjsakldjadklas\nLaksdlksadklsakdlsakdjlasklaskdlas\nAskldsajdalskdjlkdsakld\n\nSfdadldjsajdaksdsaklsdjasldksa\nAlksdasldsakjd\nAldjlaskjdsald"}
+{"@t":"2025-02-26T19:21:11.9640700+03:00","@mt":"File not found: data.csv","@l":"Warning"}
+{"@t":"2025-02-26T19:21:11.9641900+03:00","@mt":"Outputting to console..."}
+{"@t":"2025-02-26T19:21:11.9642460+03:00","@mt":"Outputting to file at path: %BASEDIR%/"}
+{"@t":"2025-02-26T19:21:11.9642840+03:00","@mt":"Parsing 2 files"}
+{"@t":"2025-02-26T19:21:11.9643310+03:00","@mt":"Ending parse from Parser"}
+{"@t":"2025-02-26T19:21:44.4143790+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T19:21:44.4524360+03:00","@mt":"Outputting to console: true"}
+{"@t":"2025-02-26T19:21:44.4525860+03:00","@mt":"Outputting to file at path: %BASEDIR%/"}
+{"@t":"2025-02-26T19:21:44.4528410+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out.txt"}
+{"@t":"2025-02-26T19:21:44.4548660+03:00","@mt":"Asdf/.,ds.,asadass.dmalsdsaldjsakld\nLadsjlsajdklsajdklsadjklasdjs\nAlsdjsaljdsaldjsakldjadklas\nLaksdlksadklsakdlsakdjlasklaskdlas\nAskldsajdalskdjlkdsakld\n\nSfdadldjsajdaksdsaklsdjasldksa\nAlksdasldsakjd\nAldjlaskjdsald"}
+{"@t":"2025-02-26T19:21:44.4551280+03:00","@mt":"File not found: data.csv","@l":"Warning"}
+{"@t":"2025-02-26T19:21:44.4551860+03:00","@mt":"Parsing 2 files"}
+{"@t":"2025-02-26T19:21:44.4552130+03:00","@mt":"Ending parse from Parser"}
+{"@t":"2025-02-26T19:23:06.1637790+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T19:23:06.2034500+03:00","@mt":"Outputting to console: true"}
+{"@t":"2025-02-26T19:23:06.2035890+03:00","@mt":"Outputting to file at path: %BASEDIR%/"}
+{"@t":"2025-02-26T19:23:06.2038840+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out.txt"}
+{"@t":"2025-02-26T19:23:06.2060440+03:00","@mt":"Asdf/.,ds.,asadass.dmalsdsaldjsakld\nLadsjlsajdklsajdklsadjklasdjs\nAlsdjsaljdsaldjsakldjadklas\nLaksdlksadklsakdlsakdjlasklaskdlas\nAskldsajdalskdjlkdsakld\n\nSfdadldjsajdaksdsaklsdjasldksa\nAlksdasldsakjd\nAldjlaskjdsald"}
+{"@t":"2025-02-26T19:23:06.2065340+03:00","@mt":"File not found: data.csv","@l":"Warning"}
+{"@t":"2025-02-26T19:23:06.2066140+03:00","@mt":"Parsing 2 files"}
+{"@t":"2025-02-26T19:23:06.2066430+03:00","@mt":"Ending parse from Parser"}
+{"@t":"2025-02-26T19:26:26.6971110+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T19:26:26.7342760+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T19:26:26.7344450+03:00","@mt":"Outputting to file at path: %BASEDIR%/"}
+{"@t":"2025-02-26T19:26:26.7347540+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out.txt"}
+{"@t":"2025-02-26T19:26:26.7367730+03:00","@mt":"Asdf/.,ds.,asadass.dmalsdsaldjsakld\nLadsjlsajdklsajdklsadjklasdjs\nAlsdjsaljdsaldjsakldjadklas\nLaksdlksadklsakdlsakdjlasklaskdlas\nAskldsajdalskdjlkdsakld\n\nSfdadldjsajdaksdsaklsdjasldksa\nAlksdasldsakjd\nAldjlaskjdsald"}
+{"@t":"2025-02-26T19:26:26.7370290+03:00","@mt":"File not found: data.csv","@l":"Warning"}
+{"@t":"2025-02-26T19:26:26.7370840+03:00","@mt":"Parsing 2 files"}
+{"@t":"2025-02-26T19:26:26.7371130+03:00","@mt":"Ending parse from Parser"}
+{"@t":"2025-02-26T19:26:43.9631900+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T19:26:43.9993610+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T19:26:43.9994900+03:00","@mt":"Outputting to file at path: %BASEDIR%/"}
+{"@t":"2025-02-26T19:26:43.9997840+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out.txt"}
+{"@t":"2025-02-26T19:26:44.0017630+03:00","@mt":"Asdf/.,ds.,asadass.dmalsdsaldjsakld\nLadsjlsajdklsajdklsadjklasdjs\nAlsdjsaljdsaldjsakldjadklas\nLaksdlksadklsakdlsakdjlasklaskdlas\nAskldsajdalskdjlkdsakld\n\nSfdadldjsajdaksdsaklsdjasldksa\nAlksdasldsakjd\nAldjlaskjdsald"}
+{"@t":"2025-02-26T19:26:44.0020300+03:00","@mt":"File not found: data.csv","@l":"Warning"}
+{"@t":"2025-02-26T19:26:44.0020870+03:00","@mt":"Parsing 2 files"}
+{"@t":"2025-02-26T19:26:44.0021130+03:00","@mt":"Ending parse from Parser"}
+{"@t":"2025-02-26T19:27:04.1490240+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T19:27:04.1843230+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T19:27:04.1844550+03:00","@mt":"Outputting to file at path: %BASEDIR%/"}
+{"@t":"2025-02-26T19:27:04.1847590+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out.txt"}
+{"@t":"2025-02-26T19:27:04.1867870+03:00","@mt":"Asdf/.,ds.,asadass.dmalsdsaldjsakld\nLadsjlsajdklsajdklsadjklasdjs\nAlsdjsaljdsaldjsakldjadklas\nLaksdlksadklsakdlsakdjlasklaskdlas\nAskldsajdalskdjlkdsakld\n\nSfdadldjsajdaksdsaklsdjasldksa\nAlksdasldsakjd\nAldjlaskjdsald"}
+{"@t":"2025-02-26T19:27:04.1870860+03:00","@mt":"File not found: data.csv","@l":"Warning"}
+{"@t":"2025-02-26T19:27:04.1871480+03:00","@mt":"Parsing 2 files"}
+{"@t":"2025-02-26T19:27:04.1871780+03:00","@mt":"Ending parse from Parser"}
+{"@t":"2025-02-26T19:27:40.3498020+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T19:27:40.3854250+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T19:27:40.3855490+03:00","@mt":"Outputting to file Parser.Settings.ParserOutputFileInfo at path: %BASEDIR%/"}
+{"@t":"2025-02-26T19:27:40.3858590+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out.txt"}
+{"@t":"2025-02-26T19:27:40.3878380+03:00","@mt":"Asdf/.,ds.,asadass.dmalsdsaldjsakld\nLadsjlsajdklsajdklsadjklasdjs\nAlsdjsaljdsaldjsakldjadklas\nLaksdlksadklsakdlsakdjlasklaskdlas\nAskldsajdalskdjlkdsakld\n\nSfdadldjsajdaksdsaklsdjasldksa\nAlksdasldsakjd\nAldjlaskjdsald"}
+{"@t":"2025-02-26T19:27:40.3880550+03:00","@mt":"File not found: data.csv","@l":"Warning"}
+{"@t":"2025-02-26T19:27:40.3881080+03:00","@mt":"Parsing 2 files"}
+{"@t":"2025-02-26T19:27:40.3881350+03:00","@mt":"Ending parse from Parser"}
+{"@t":"2025-02-26T19:27:51.6287280+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T19:27:51.6615500+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T19:27:51.6616720+03:00","@mt":"Outputting to file True at path: %BASEDIR%/"}
+{"@t":"2025-02-26T19:27:51.6619550+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out.txt"}
+{"@t":"2025-02-26T19:27:51.6638120+03:00","@mt":"Asdf/.,ds.,asadass.dmalsdsaldjsakld\nLadsjlsajdklsajdklsadjklasdjs\nAlsdjsaljdsaldjsakldjadklas\nLaksdlksadklsakdlsakdjlasklaskdlas\nAskldsajdalskdjlkdsakld\n\nSfdadldjsajdaksdsaklsdjasldksa\nAlksdasldsakjd\nAldjlaskjdsald"}
+{"@t":"2025-02-26T19:27:51.6640600+03:00","@mt":"File not found: data.csv","@l":"Warning"}
+{"@t":"2025-02-26T19:27:51.6641280+03:00","@mt":"Parsing 2 files"}
+{"@t":"2025-02-26T19:27:51.6641590+03:00","@mt":"Ending parse from Parser"}
+{"@t":"2025-02-26T19:29:48.1911030+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T19:29:48.2252050+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T19:29:48.2253200+03:00","@mt":"Outputting to file True at path: %BASEDIR%/"}
+{"@t":"2025-02-26T19:29:48.2255910+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out.txt"}
+{"@t":"2025-02-26T19:29:48.2274980+03:00","@mt":"Asdf/.,ds.,asadass.dmalsdsaldjsakld\nLadsjlsajdklsajdklsadjklasdjs\nAlsdjsaljdsaldjsakldjadklas\nLaksdlksadklsakdlsakdjlasklaskdlas\nAskldsajdalskdjlkdsakld\n\nSfdadldjsajdaksdsaklsdjasldksa\nAlksdasldsakjd\nAldjlaskjdsald"}
+{"@t":"2025-02-26T19:29:48.2277430+03:00","@mt":"File not found: data.csv","@l":"Warning"}
+{"@t":"2025-02-26T19:29:48.2277950+03:00","@mt":"Parsing 2 files"}
+{"@t":"2025-02-26T19:29:48.2278230+03:00","@mt":"Ending parse from Parser"}
+{"@t":"2025-02-26T19:31:53.5188880+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T19:31:53.5546520+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T19:31:53.5547680+03:00","@mt":"Outputting to file True at path: %BASEDIR%/"}
+{"@t":"2025-02-26T19:31:53.5550510+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out.txt"}
+{"@t":"2025-02-26T19:31:53.5570600+03:00","@mt":"Asdf/.,ds.,asadass.dmalsdsaldjsakld\nLadsjlsajdklsajdklsadjklasdjs\nAlsdjsaljdsaldjsakldjadklas\nLaksdlksadklsakdlsakdjlasklaskdlas\nAskldsajdalskdjlkdsakld\n\nSfdadldjsajdaksdsaklsdjasldksa\nAlksdasldsakjd\nAldjlaskjdsald"}
+{"@t":"2025-02-26T19:31:53.5573460+03:00","@mt":"File not found: data.csv","@l":"Warning"}
+{"@t":"2025-02-26T19:31:53.5574080+03:00","@mt":"Parsing 2 files"}
+{"@t":"2025-02-26T19:31:53.5574330+03:00","@mt":"Ending parse from Parser"}
+{"@t":"2025-02-26T19:32:29.2386200+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T19:32:29.2752390+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T19:32:29.2753650+03:00","@mt":"Outputting to file True at path: %BASEDIR%/"}
+{"@t":"2025-02-26T19:32:29.2756660+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out.txt"}
+{"@t":"2025-02-26T19:32:29.2777280+03:00","@mt":"Asdf/.,ds.,asadass.dmalsdsaldjsakld\nLadsjlsajdklsajdklsadjklasdjs\nAlsdjsaljdsaldjsakldjadklas\nLaksdlksadklsakdlsakdjlasklaskdlas\nAskldsajdalskdjlkdsakld\n\nSfdadldjsajdaksdsaklsdjasldksa\nAlksdasldsakjd\nAldjlaskjdsald"}
+{"@t":"2025-02-26T19:32:29.2779650+03:00","@mt":"File not found: data.csv","@l":"Warning"}
+{"@t":"2025-02-26T19:32:29.2780170+03:00","@mt":"Parsing 2 files"}
+{"@t":"2025-02-26T19:32:29.2780420+03:00","@mt":"Ending parse from Parser"}
+{"@t":"2025-02-26T19:33:18.4659510+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T19:33:18.5030280+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T19:33:18.5031470+03:00","@mt":"Outputting to file True at path: %BASEDIR%/"}
+{"@t":"2025-02-26T19:33:18.5034240+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out.txt"}
+{"@t":"2025-02-26T19:33:18.5052580+03:00","@mt":"Asdf/.,ds.,asadass.dmalsdsaldjsakld\nLadsjlsajdklsajdklsadjklasdjs\nAlsdjsaljdsaldjsakldjadklas\nLaksdlksadklsakdlsakdjlasklaskdlas\nAskldsajdalskdjlkdsakld\n\nSfdadldjsajdaksdsaklsdjasldksa\nAlksdasldsakjd\nAldjlaskjdsald"}
+{"@t":"2025-02-26T19:33:18.5055170+03:00","@mt":"File not found: data.csv","@l":"Warning"}
+{"@t":"2025-02-26T19:33:18.5055670+03:00","@mt":"Parsing 2 files"}
+{"@t":"2025-02-26T19:33:18.5055910+03:00","@mt":"Ending parse from Parser"}
+{"@t":"2025-02-26T19:44:12.7373260+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T19:44:12.7752890+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T19:44:12.7754110+03:00","@mt":"Outputting to file True at path: %BASEDIR%/"}
+{"@t":"2025-02-26T19:44:12.7756900+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out.txt"}
+{"@t":"2025-02-26T19:44:12.7761260+03:00","@mt":"Asdf/.,ds.,asadass.dmalsdsaldjsakld\nLadsjlsajdklsajdklsadjklasdjs\nAlsdjsaljdsaldjsakldjadklas\nLaksdlksadklsakdlsakdjlasklaskdlas\nAskldsajdalskdjlkdsakld\n\nSfdadldjsajdaksdsaklsdjasldksa\nAlksdasldsakjd\nAldjlaskjdsald"}
+{"@t":"2025-02-26T19:44:12.7763900+03:00","@mt":"File not found: data.csv","@l":"Warning"}
+{"@t":"2025-02-26T19:44:12.7764470+03:00","@mt":"Parsing 2 files"}
+{"@t":"2025-02-26T19:44:12.7764710+03:00","@mt":"Ending parse from Parser"}
+{"@t":"2025-02-26T19:44:19.5250030+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T19:44:19.5632820+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T19:44:19.5634440+03:00","@mt":"Outputting to file True at path: %BASEDIR%/"}
+{"@t":"2025-02-26T19:44:19.5638050+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out.txt"}
+{"@t":"2025-02-26T19:44:19.5646210+03:00","@mt":"Asdf/.,ds.,asadass.dmalsdsaldjsakld\nLadsjlsajdklsajdklsadjklasdjs\nAlsdjsaljdsaldjsakldjadklas\nLaksdlksadklsakdlsakdjlasklaskdlas\nAskldsajdalskdjlkdsakld\n\nSfdadldjsajdaksdsaklsdjasldksa\nAlksdasldsakjd\nAldjlaskjdsald"}
+{"@t":"2025-02-26T19:44:19.5649080+03:00","@mt":"File not found: data.csv","@l":"Warning"}
+{"@t":"2025-02-26T19:44:19.5649760+03:00","@mt":"Parsing 2 files"}
+{"@t":"2025-02-26T19:44:19.5650020+03:00","@mt":"Ending parse from Parser"}
+{"@t":"2025-02-26T19:45:59.2059360+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T19:45:59.2413140+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T19:45:59.2414350+03:00","@mt":"Outputting to file True at path: %BASEDIR%/"}
+{"@t":"2025-02-26T19:45:59.2417040+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out.txt"}
+{"@t":"2025-02-26T19:45:59.2421570+03:00","@mt":"Asdf/.,ds.,asadass.dmalsdsaldjsakld\nLadsjlsajdklsajdklsadjklasdjs\nAlsdjsaljdsaldjsakldjadklas\nLaksdlksadklsakdlsakdjlasklaskdlas\nAskldsajdalskdjlkdsakld\n\nSfdadldjsajdaksdsaklsdjasldksa\nAlksdasldsakjd\nAldjlaskjdsald"}
+{"@t":"2025-02-26T19:45:59.2425000+03:00","@mt":"File not found: data.csv","@l":"Warning"}
+{"@t":"2025-02-26T19:45:59.2425580+03:00","@mt":"Parsing 2 files"}
+{"@t":"2025-02-26T19:45:59.2425840+03:00","@mt":"Ending parse from Parser"}
+{"@t":"2025-02-26T19:46:57.0586640+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T19:46:57.0954310+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T19:46:57.0955470+03:00","@mt":"Outputting to file True at path: %BASEDIR%/output/"}
+{"@t":"2025-02-26T19:46:57.0958160+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out.txt"}
+{"@t":"2025-02-26T19:46:57.0962640+03:00","@mt":"Asdf/.,ds.,asadass.dmalsdsaldjsakld\nLadsjlsajdklsajdklsadjklasdjs\nAlsdjsaljdsaldjsakldjadklas\nLaksdlksadklsakdlsakdjlasklaskdlas\nAskldsajdalskdjlkdsakld\n\nSfdadldjsajdaksdsaklsdjasldksa\nAlksdasldsakjd\nAldjlaskjdsald"}
+{"@t":"2025-02-26T19:46:57.0971780+03:00","@mt":"Ending parse from Parser"}
+{"@t":"2025-02-26T19:46:57.0972750+03:00","@mt":"Application start up failed","@l":"Fatal"}
+{"@t":"2025-02-26T19:50:07.8276410+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T19:50:07.8631560+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T19:50:07.8632790+03:00","@mt":"Outputting to file True at path: %BASEDIR%/output/"}
+{"@t":"2025-02-26T19:50:07.8635720+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out.txt"}
+{"@t":"2025-02-26T19:50:07.8640530+03:00","@mt":"Asdf/.,ds.,asadass.dmalsdsaldjsakld\nLadsjlsajdklsajdklsadjklasdjs\nAlsdjsaljdsaldjsakldjadklas\nLaksdlksadklsakdlsakdjlasklaskdlas\nAskldsajdalskdjlkdsakld\n\nSfdadldjsajdaksdsaklsdjasldksa\nAlksdasldsakjd\nAldjlaskjdsald"}
+{"@t":"2025-02-26T19:50:07.8644170+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26_19-50-07.txt"}
+{"@t":"2025-02-26T19:50:07.8644790+03:00","@mt":"File not found: data.csv","@l":"Warning"}
+{"@t":"2025-02-26T19:50:07.8645280+03:00","@mt":"Parsing 2 files"}
+{"@t":"2025-02-26T19:50:07.8645510+03:00","@mt":"Ending parse from Parser"}
+{"@t":"2025-02-26T19:51:27.0380220+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T19:51:27.0745900+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T19:51:27.0747090+03:00","@mt":"Outputting to file True at path: %BASEDIR%\\output\\"}
+{"@t":"2025-02-26T19:51:27.0750100+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out.txt"}
+{"@t":"2025-02-26T19:51:27.0756170+03:00","@mt":"Asdf/.,ds.,asadass.dmalsdsaldjsakld\nLadsjlsajdklsajdklsadjklasdjs\nAlsdjsaljdsaldjsakldjadklas\nLaksdlksadklsakdlsakdjlasklaskdlas\nAskldsajdalskdjlkdsakld\n\nSfdadldjsajdaksdsaklsdjasldksa\nAlksdasldsakjd\nAldjlaskjdsald"}
+{"@t":"2025-02-26T19:51:27.0766240+03:00","@mt":"Ending parse from Parser"}
+{"@t":"2025-02-26T19:51:27.0767310+03:00","@mt":"Application start up failed","@l":"Fatal"}
+{"@t":"2025-02-26T19:52:00.6696540+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T19:52:00.7061260+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T19:52:00.7062510+03:00","@mt":"Outputting to file True at path: %BASEDIR%/output/"}
+{"@t":"2025-02-26T19:52:00.7065280+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out.txt"}
+{"@t":"2025-02-26T19:52:00.7070290+03:00","@mt":"Asdf/.,ds.,asadass.dmalsdsaldjsakld\nLadsjlsajdklsajdklsadjklasdjs\nAlsdjsaljdsaldjsakldjadklas\nLaksdlksadklsakdlsakdjlasklaskdlas\nAskldsajdalskdjlkdsakld\n\nSfdadldjsajdaksdsaklsdjasldksa\nAlksdasldsakjd\nAldjlaskjdsald"}
+{"@t":"2025-02-26T19:52:00.7073620+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26_19-52-00.txt"}
+{"@t":"2025-02-26T19:52:00.7074260+03:00","@mt":"File not found: data.csv","@l":"Warning"}
+{"@t":"2025-02-26T19:52:00.7074750+03:00","@mt":"Parsing 2 files"}
+{"@t":"2025-02-26T19:52:00.7074980+03:00","@mt":"Ending parse from Parser"}
+{"@t":"2025-02-26T19:54:39.9125550+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T19:54:39.9478350+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T19:54:39.9479480+03:00","@mt":"Outputting to file True at path: %BASEDIR%\\output\\output-.txt"}
+{"@t":"2025-02-26T19:54:39.9482140+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out.txt"}
+{"@t":"2025-02-26T19:54:39.9487060+03:00","@mt":"Asdf/.,ds.,asadass.dmalsdsaldjsakld\nLadsjlsajdklsajdklsadjklasdjs\nAlsdjsaljdsaldjsakldjadklas\nLaksdlksadklsakdlsakdjlasklaskdlas\nAskldsajdalskdjlkdsakld\n\nSfdadldjsajdaksdsaklsdjasldksa\nAlksdasldsakjd\nAldjlaskjdsald"}
+{"@t":"2025-02-26T19:54:39.9496530+03:00","@mt":"Ending parse from Parser"}
+{"@t":"2025-02-26T19:54:39.9497640+03:00","@mt":"Application start up failed","@l":"Fatal"}
+{"@t":"2025-02-26T19:55:40.9512800+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T19:55:40.9862430+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T19:55:40.9863810+03:00","@mt":"Outputting to file True at path: %BASEDIR%/output/output-.txt"}
+{"@t":"2025-02-26T19:55:40.9867100+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out.txt"}
+{"@t":"2025-02-26T19:55:40.9871910+03:00","@mt":"Asdf/.,ds.,asadass.dmalsdsaldjsakld\nLadsjlsajdklsajdklsadjklasdjs\nAlsdjsaljdsaldjsakldjadklas\nLaksdlksadklsakdlsakdjlasklaskdlas\nAskldsajdalskdjlkdsakld\n\nSfdadldjsajdaksdsaklsdjasldksa\nAlksdasldsakjd\nAldjlaskjdsald"}
+{"@t":"2025-02-26T19:55:40.9882970+03:00","@mt":"Ending parse from Parser"}
+{"@t":"2025-02-26T19:55:40.9884070+03:00","@mt":"Application start up failed","@l":"Fatal"}
+{"@t":"2025-02-26T19:56:05.3437740+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T19:56:05.3813500+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T19:56:05.3815180+03:00","@mt":"Outputting to file True at path: %BASEDIR%/output/output-.txt"}
+{"@t":"2025-02-26T19:56:05.3818120+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out.txt"}
+{"@t":"2025-02-26T19:56:05.3823070+03:00","@mt":"Asdf/.,ds.,asadass.dmalsdsaldjsakld\nLadsjlsajdklsajdklsadjklasdjs\nAlsdjsaljdsaldjsakldjadklas\nLaksdlksadklsakdlsakdjlasklaskdlas\nAskldsajdalskdjlkdsakld\n\nSfdadldjsajdaksdsaklsdjasldksa\nAlksdasldsakjd\nAldjlaskjdsald"}
+{"@t":"2025-02-26T19:56:05.3832590+03:00","@mt":"Ending parse from Parser"}
+{"@t":"2025-02-26T19:56:05.3833760+03:00","@mt":"Application start up failed","@l":"Fatal"}
+{"@t":"2025-02-26T20:03:07.9317120+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T20:03:07.9705290+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T20:03:07.9706930+03:00","@mt":"Outputting to file True at path: %BASEDIR%/output/output-.txt"}
+{"@t":"2025-02-26T20:03:07.9711920+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out.txt"}
+{"@t":"2025-02-26T20:03:07.9718770+03:00","@mt":"Asdf/.,ds.,asadass.dmalsdsaldjsakld\nLadsjlsajdklsajdklsadjklasdjs\nAlsdjsaljdsaldjsakldjadklas\nLaksdlksadklsakdlsakdjlasklaskdlas\nAskldsajdalskdjlkdsakld\n\nSfdadldjsajdaksdsaklsdjasldksa\nAlksdasldsakjd\nAldjlaskjdsald"}
+{"@t":"2025-02-26T20:03:07.9722510+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output--2025-02-26_20-03-07.txt"}
+{"@t":"2025-02-26T20:03:07.9723210+03:00","@mt":"File not found: data.csv","@l":"Warning"}
+{"@t":"2025-02-26T20:03:07.9723770+03:00","@mt":"Parsing 2 files"}
+{"@t":"2025-02-26T20:03:07.9724010+03:00","@mt":"Ending parse from Parser"}
+{"@t":"2025-02-26T20:03:17.2670160+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T20:03:17.3012280+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T20:03:17.3013590+03:00","@mt":"Outputting to file True at path: %BASEDIR%/output/output-.txt"}
+{"@t":"2025-02-26T20:03:17.3016430+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out.txt"}
+{"@t":"2025-02-26T20:03:17.3021640+03:00","@mt":"Asdf/.,ds.,asadass.dmalsdsaldjsakld\nLadsjlsajdklsajdklsadjklasdjs\nAlsdjsaljdsaldjsakldjadklas\nLaksdlksadklsakdlsakdjlasklaskdlas\nAskldsajdalskdjlkdsakld\n\nSfdadldjsajdaksdsaklsdjasldksa\nAlksdasldsakjd\nAldjlaskjdsald"}
+{"@t":"2025-02-26T20:03:17.3025030+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26_20-03-17.txt"}
+{"@t":"2025-02-26T20:03:17.3025670+03:00","@mt":"File not found: data.csv","@l":"Warning"}
+{"@t":"2025-02-26T20:03:17.3026150+03:00","@mt":"Parsing 2 files"}
+{"@t":"2025-02-26T20:03:17.3026380+03:00","@mt":"Ending parse from Parser"}
+{"@t":"2025-02-26T20:03:31.7107730+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T20:03:31.7450830+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T20:03:31.7451970+03:00","@mt":"Outputting to file True at path: %BASEDIR%/output/output-.txt"}
+{"@t":"2025-02-26T20:03:31.7454670+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out.txt"}
+{"@t":"2025-02-26T20:03:31.7459670+03:00","@mt":"Asdf/.,ds.,asadass.dmalsdsaldjsakld\nLadsjlsajdklsajdklsadjklasdjs\nAlsdjsaljdsaldjsakldjadklas\nLaksdlksadklsakdlsakdjlasklaskdlas\nAskldsajdalskdjlkdsakld\n\nSfdadldjsajdaksdsaklsdjasldksa\nAlksdasldsakjd\nAldjlaskjdsald"}
+{"@t":"2025-02-26T20:03:31.7462640+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-20-03-31.txt"}
+{"@t":"2025-02-26T20:03:31.7464700+03:00","@mt":"File not found: data.csv","@l":"Warning"}
+{"@t":"2025-02-26T20:03:31.7465310+03:00","@mt":"Parsing 2 files"}
+{"@t":"2025-02-26T20:03:31.7465560+03:00","@mt":"Ending parse from Parser"}
+{"@t":"2025-02-26T20:05:15.7897300+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T20:05:15.8283390+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T20:05:15.8285310+03:00","@mt":"Outputting to file True at path: %BASEDIR%/output/output-.txt"}
+{"@t":"2025-02-26T20:05:15.8288680+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out.txt"}
+{"@t":"2025-02-26T20:05:15.8295110+03:00","@mt":"Asdf/.,ds.,asadass.dmalsdsaldjsakld\nLadsjlsajdklsajdklsadjklasdjs\nAlsdjsaljdsaldjsakldjadklas\nLaksdlksadklsakdlsakdjlasklaskdlas\nAskldsajdalskdjlkdsakld\n\nSfdadldjsajdaksdsaklsdjasldksa\nAlksdasldsakjd\nAldjlaskjdsald"}
+{"@t":"2025-02-26T20:05:15.8299250+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-20-05-15.txt"}
+{"@t":"2025-02-26T20:05:15.8300040+03:00","@mt":"File not found: data.csv","@l":"Warning"}
+{"@t":"2025-02-26T20:05:15.8300630+03:00","@mt":"Parsing 2 files"}
+{"@t":"2025-02-26T20:05:15.8300870+03:00","@mt":"Ending parse from Parser"}
+{"@t":"2025-02-26T20:06:19.6680210+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T20:06:19.7029300+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T20:06:19.7031170+03:00","@mt":"Outputting to file True at path: %BASEDIR%\\output\\output-.txt"}
+{"@t":"2025-02-26T20:06:19.7034660+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out.txt"}
+{"@t":"2025-02-26T20:06:19.7040010+03:00","@mt":"Asdf/.,ds.,asadass.dmalsdsaldjsakld\nLadsjlsajdklsajdklsadjklasdjs\nAlsdjsaljdsaldjsakldjadklas\nLaksdlksadklsakdlsakdjlasklaskdlas\nAskldsajdalskdjlkdsakld\n\nSfdadldjsajdaksdsaklsdjasldksa\nAlksdasldsakjd\nAldjlaskjdsald"}
+{"@t":"2025-02-26T20:06:19.7043290+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-20-06-19.txt"}
+{"@t":"2025-02-26T20:06:19.7043910+03:00","@mt":"File not found: data.csv","@l":"Warning"}
+{"@t":"2025-02-26T20:06:19.7044410+03:00","@mt":"Parsing 2 files"}
+{"@t":"2025-02-26T20:06:19.7044640+03:00","@mt":"Ending parse from Parser"}
+{"@t":"2025-02-26T20:08:33.8806160+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T20:08:33.9160660+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T20:08:33.9162130+03:00","@mt":"Outputting to file True at path: %BASEDIR%\\output\\output-.txt"}
+{"@t":"2025-02-26T20:08:33.9164980+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out.txt"}
+{"@t":"2025-02-26T20:08:33.9170310+03:00","@mt":"Asdf/.,ds.,asadass.dmalsdsaldjsakld\nLadsjlsajdklsajdklsadjklasdjs\nAlsdjsaljdsaldjsakldjadklas\nLaksdlksadklsakdlsakdjlasklaskdlas\nAskldsajdalskdjlkdsakld\nd*/\nSfdadldjsajdaksdsaklsdjasldksa\nAlksdasldsakjd\nAldjlaskjdsald"}
+{"@t":"2025-02-26T20:08:33.9174000+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-20-08-33.txt"}
+{"@t":"2025-02-26T20:08:33.9174750+03:00","@mt":"File not found: data.csv","@l":"Warning"}
+{"@t":"2025-02-26T20:08:33.9175670+03:00","@mt":"Parsing 2 files"}
+{"@t":"2025-02-26T20:08:33.9175930+03:00","@mt":"Ending parse from Parser"}
+{"@t":"2025-02-26T20:11:19.3206360+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T20:11:19.3546480+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T20:11:19.3547650+03:00","@mt":"Outputting to file True at path: %BASEDIR%\\output\\output-.txt"}
+{"@t":"2025-02-26T20:11:19.3550320+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out.txt"}
+{"@t":"2025-02-26T20:11:19.3555590+03:00","@mt":"Asdf/.,ds.,asadass.dmalsdsaldjsakld\nLadsjlsajdklsajdklsadjklasdjs\nAlsdjsaljdsaldjsakldjadklas\nLaksdlksadklsakdlsakdjlasklaskdlas\nAskldsajdalskdjlkdsakld\nd*/\nSfdadldjsajdaksdsaklsdjasldksa\nAlksdasldsakjd\nAldjlaskjdsald"}
+{"@t":"2025-02-26T20:11:19.3560490+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-20-11-19.txt"}
+{"@t":"2025-02-26T20:11:19.3561320+03:00","@mt":"File not found: data.csv","@l":"Warning"}
+{"@t":"2025-02-26T20:11:19.3561830+03:00","@mt":"Parsing 2 files"}
+{"@t":"2025-02-26T20:11:19.3562080+03:00","@mt":"Ending parse from Parser"}
+{"@t":"2025-02-26T20:11:32.2283010+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T20:11:32.2616340+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T20:11:32.2617500+03:00","@mt":"Outputting to file True at path: %BASEDIR%\\output\\output-.txt"}
+{"@t":"2025-02-26T20:11:32.2620230+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out.txt"}
+{"@t":"2025-02-26T20:11:32.2625620+03:00","@mt":"Asdf/.,ds.,asadass.dmalsdsaldjsakld\nLadsjlsajdklsajdklsadjklasdjs\nAlsdjsaljdsaldjsakldjadklas\nLaksdlksadklsakdlsakdjlasklaskdlas\nAskldsajdalskdjlkdsakld\nd*/\nSfdadldjsajdaksdsaklsdjasldksa\nAlksdasldsakjd\nAldjlaskjdsald"}
+{"@t":"2025-02-26T20:11:32.2628760+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-20-11-32.txt"}
+{"@t":"2025-02-26T20:11:32.2629460+03:00","@mt":"File not found: data.csv","@l":"Warning"}
+{"@t":"2025-02-26T20:11:32.2629970+03:00","@mt":"Parsing 2 files"}
+{"@t":"2025-02-26T20:11:32.2630200+03:00","@mt":"Ending parse from Parser"}
+{"@t":"2025-02-26T20:13:17.1344400+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T20:13:17.1694360+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T20:13:17.1695490+03:00","@mt":"Outputting to file True at path: %BASEDIR%\\output\\output-.txt"}
+{"@t":"2025-02-26T20:13:17.1698250+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out.txt"}
+{"@t":"2025-02-26T20:13:17.1703970+03:00","@mt":"Asdf/.,ds.,asadass.dmalsdsaldjsakld\nLadsjlsajdklsajdklsadjklasdjs\nAlsdjsaljdsaldjsakldjadklas\nLaksdlksadklsakdlsakdjlasklaskdlas\nAskldsajdalskdjlkdsakld\nd*/\nSfdadldjsajdaksdsaklsdjasldksa\nAlksdasldsakjd\nAldjlaskjdsald/*s;dkjsasasdasdsadsadasdadkdjaskldjalkdjsadlsa\n*/"}
+{"@t":"2025-02-26T20:13:17.1707020+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-20-13-17.txt"}
+{"@t":"2025-02-26T20:13:17.1707630+03:00","@mt":"File not found: data.csv","@l":"Warning"}
+{"@t":"2025-02-26T20:13:17.1708130+03:00","@mt":"Parsing 2 files"}
+{"@t":"2025-02-26T20:13:17.1708360+03:00","@mt":"Ending parse from Parser"}
+{"@t":"2025-02-26T20:44:03.3209350+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T20:44:03.3579540+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T20:44:03.3580940+03:00","@mt":"Outputting to file True at path: %BASEDIR%\\output\\output-.txt"}
+{"@t":"2025-02-26T20:44:03.3585600+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out.txt"}
+{"@t":"2025-02-26T20:44:03.3591780+03:00","@mt":"Asdf/.,ds.,asadass.dmalsdsaldjsakld\nLadsjlsajdklsajdklsadjklasdjs\nAlsdjsaljdsaldjsakldjadklas\nLaksdlksadklsakdlsakdjlasklaskdlas\nAskldsajdalskdjlkdsakld\n\nSfdadldjsajdaksdsaklsdjasldksa\nAlksdasldsakjd\nAldjlaskjdsald\n"}
+{"@t":"2025-02-26T20:44:03.3596520+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-20-44-03.txt"}
+{"@t":"2025-02-26T20:44:03.3597480+03:00","@mt":"File not found: data.csv","@l":"Warning"}
+{"@t":"2025-02-26T20:44:03.3598100+03:00","@mt":"Parsing 2 files"}
+{"@t":"2025-02-26T20:44:03.3598370+03:00","@mt":"Ending parse from Parser"}
+{"@t":"2025-02-26T20:44:34.8264440+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T20:44:34.9056520+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T20:44:34.9066480+03:00","@mt":"Outputting to file True at path: %BASEDIR%\\output\\output-.txt"}
+{"@t":"2025-02-26T20:44:34.9072930+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out.txt"}
+{"@t":"2025-02-26T20:44:34.9089110+03:00","@mt":"Asdf/.,ds.,asadass.dmalsdsaldjsakld\nLadsjlsajdklsajdklsadjklasdjs\nAlsdjsaljdsaldjsakldjadklas\nLaksdlksadklsakdlsakdjlasklaskdlas\nAskldsajdalskdjlkdsakld\n\nSfdadldjsajdaksdsaklsdjasldksa\nAlksdasldsakjd\nAldjlaskjdsald\n\n\n"}
+{"@t":"2025-02-26T20:44:34.9101810+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-20-44-34.txt"}
+{"@t":"2025-02-26T20:44:34.9102790+03:00","@mt":"File not found: data.csv","@l":"Warning"}
+{"@t":"2025-02-26T20:44:34.9103950+03:00","@mt":"Parsing 2 files"}
+{"@t":"2025-02-26T20:44:34.9104500+03:00","@mt":"Ending parse from Parser"}
+{"@t":"2025-02-26T20:46:40.9267570+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T20:46:40.9616120+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T20:46:40.9618900+03:00","@mt":"Outputting to file True at path: %BASEDIR%\\output\\output-.txt"}
+{"@t":"2025-02-26T20:46:40.9621930+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out.txt"}
+{"@t":"2025-02-26T20:46:40.9628180+03:00","@mt":"Asdf/.,ds.,asadass.dmalsdsaldjsakld\nLadsjlsajdklsajdklsadjklasdjs\nAlsdjsaljdsaldjsakldjadklas\nLaksdlksadklsakdlsakdjlasklaskdlas\nAskldsajdalskdjlkdsakld\n\nSfdadldjsajdaksdsaklsdjasldksa\nAlksdasldsakjd\nAldjlaskjdsald\n\n\n"}
+{"@t":"2025-02-26T20:46:40.9633070+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-20-46-40.txt"}
+{"@t":"2025-02-26T20:46:40.9633660+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out2.txt"}
+{"@t":"2025-02-26T20:46:40.9634540+03:00","@mt":"using System;\n\nnamespace CommentExample\n{\n    class Program\n    {\n        static void Main(string[] args)\n        {\n            Console.WriteLine(\"Начало программы\"); \n\n            int a = 10; \n            int b = 20; \n\n            \n            int sum = a + b; \n            Console.WriteLine($\"Сумма: {sum}\");\n\n            \n            int product = a * b; \n            Console.WriteLine($\"Произведение: {product}\");\n\n            \n            Console.WriteLine(\"Конец программы\");\n        }\n    }\n}\n"}
+{"@t":"2025-02-26T20:46:40.9640270+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-20-46-40.txt"}
+{"@t":"2025-02-26T20:46:40.9640700+03:00","@mt":"Parsing 2 files"}
+{"@t":"2025-02-26T20:46:40.9640930+03:00","@mt":"Ending parse from Parser"}
+{"@t":"2025-02-26T20:47:02.1009550+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T20:47:02.1335740+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T20:47:02.1336900+03:00","@mt":"Outputting to file True at path: %BASEDIR%\\output\\output-.txt"}
+{"@t":"2025-02-26T20:47:02.1339670+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out.txt"}
+{"@t":"2025-02-26T20:47:02.1345510+03:00","@mt":"Asdf/.,ds.,asadass.dmalsdsaldjsakld\nLadsjlsajdklsajdklsadjklasdjs\nAlsdjsaljdsaldjsakldjadklas\nLaksdlksadklsakdlsakdjlasklaskdlas\nAskldsajdalskdjlkdsakld\n/*sdsdsdsdsasdsdasdas/*asdasdsadasdasdasdasdasd*/d*/\nSfdadldjsajdaksdsaklsdjasldksa\nAlksdasldsakjd\nAldjlaskjdsald/*s;dkjsasasdasdsadsadasdadkdjaskldjalkdjsadlsa\n*/\n\n\n"}
+{"@t":"2025-02-26T20:47:02.1348600+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-20-47-02.txt"}
+{"@t":"2025-02-26T20:47:02.1348960+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out2.txt"}
+{"@t":"2025-02-26T20:47:02.1349510+03:00","@mt":"using System;\n\nnamespace CommentExample\n{\n    class Program\n    {\n        static void Main(string[] args)\n        {\n            Console.WriteLine(\"Начало программы\"); \n\n            int a = 10; \n            int b = 20; \n\n            \n            int sum = a + b; \n            Console.WriteLine($\"Сумма: {sum}\");\n\n            /* \n             * Этот блок кода демонстрирует умножение.\n             * Он используется для проверки математических операций.\n             */\n            int product = a * b; /* Умножаем a и b */\n            Console.WriteLine($\"Произведение: {product}\");\n\n            /* Вложенные комментарии:\n             * /*\n             * Внутренний комментарий\n             * */\n             */\n            Console.WriteLine(\"Конец программы\");\n        }\n    }\n}\n"}
+{"@t":"2025-02-26T20:47:02.1355070+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-20-47-02.txt"}
+{"@t":"2025-02-26T20:47:02.1355780+03:00","@mt":"Parsing 2 files"}
+{"@t":"2025-02-26T20:47:02.1356060+03:00","@mt":"Ending parse from Parser"}
+{"@t":"2025-02-26T20:48:15.0308570+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T20:48:15.0653140+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T20:48:15.0654320+03:00","@mt":"Outputting to file True at path: %BASEDIR%\\output\\output-.txt"}
+{"@t":"2025-02-26T20:48:15.0657120+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out.txt"}
+{"@t":"2025-02-26T20:48:15.0662820+03:00","@mt":"Asdf/.,ds.,asadass.dmalsdsaldjsakld\nLadsjlsajdklsajdklsadjklasdjs\nAlsdjsaljdsaldjsakldjadklas\nLaksdlksadklsakdlsakdjlasklaskdlas\nAskldsajdalskdjlkdsakld\n\nSfdadldjsajdaksdsaklsdjasldksa\nAlksdasldsakjd\nAldjlaskjdsald\n\n\n"}
+{"@t":"2025-02-26T20:48:15.0665850+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-20-48-15.txt"}
+{"@t":"2025-02-26T20:48:15.0666300+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out2.txt"}
+{"@t":"2025-02-26T20:48:15.0666860+03:00","@mt":"using System;\n\nnamespace CommentExample\n{\n    class Program\n    {\n        \n        {\n            Console.WriteLine(\"Начало программы\"); \n\n            int a = 10; \n            int b = 20; \n\n            \n            int sum = a + b; \n            Console.WriteLine($\"Сумма: {sum}\");\n\n            \n            int product = a * b; \n            Console.WriteLine($\"Произведение: {product}\");\n\n            \n            Console.WriteLine(\"Конец программы\");\n        }\n    }\n}\n"}
+{"@t":"2025-02-26T20:48:15.0670530+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-20-48-15.txt"}
+{"@t":"2025-02-26T20:48:15.0670880+03:00","@mt":"Parsing 2 files"}
+{"@t":"2025-02-26T20:48:15.0671110+03:00","@mt":"Ending parse from Parser"}
+{"@t":"2025-02-26T20:48:33.9407260+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T20:48:33.9735080+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T20:48:33.9736280+03:00","@mt":"Outputting to file True at path: %BASEDIR%\\output\\output-.txt"}
+{"@t":"2025-02-26T20:48:33.9739060+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out.txt"}
+{"@t":"2025-02-26T20:48:33.9744570+03:00","@mt":"\nL\n\nL\n\n\nSfd\n\n\n\n\n"}
+{"@t":"2025-02-26T20:48:33.9747880+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-20-48-33.txt"}
+{"@t":"2025-02-26T20:48:33.9748280+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out2.txt"}
+{"@t":"2025-02-26T20:48:33.9748830+03:00","@mt":"using System;\n\nn\n{\n    cl\n    {\n        st\n        {\n            Console.WriteLine(\"Начало программы\"); \n\n            int \n            int b = 20; \n\n            \n            int sum = \n            Console.WriteLine($\"Сумма: {sum}\");\n\n            \n            int product = \n            Console.WriteLine($\"Произведение: {product}\");\n\n            \n            Console.WriteLine(\"Конец программы\");\n        }\n    }\n}\n"}
+{"@t":"2025-02-26T20:48:33.9754690+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-20-48-33.txt"}
+{"@t":"2025-02-26T20:48:33.9755070+03:00","@mt":"Parsing 2 files"}
+{"@t":"2025-02-26T20:48:33.9755350+03:00","@mt":"Ending parse from Parser"}
+{"@t":"2025-02-26T20:48:52.2900160+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T20:48:52.3252140+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T20:48:52.3253290+03:00","@mt":"Outputting to file True at path: %BASEDIR%\\output\\output-.txt"}
+{"@t":"2025-02-26T20:48:52.3256010+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out.txt"}
+{"@t":"2025-02-26T20:48:52.3261900+03:00","@mt":"Asdf/.,ds.,asadass.dmalsdsaldjsakld\nLadsjlsajdklsajdklsadjklasdjs\nAlsdjsaljdsaldjsakldjadklas\nLaksdlksadklsakdlsakdjlasklaskdlas\nAskldsajdalskdjlkdsakld\n\nSfdadldjsajdaksdsaklsdjasldksa\nAlksdasldsakjd\nAldjlaskjdsald\n\n\n"}
+{"@t":"2025-02-26T20:48:52.3265220+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-20-48-52.txt"}
+{"@t":"2025-02-26T20:48:52.3265610+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out2.txt"}
+{"@t":"2025-02-26T20:48:52.3266300+03:00","@mt":"using System;\n\nnamespace CommentExample\n{\n    class Program\n    {\n        static void Main(string[] args)\n        {\n            Console.WriteLine(\"Начало программы\"); \n\n            \n            \n\n            \n            \n            Console.WriteLine($\"Сумма: {sum}\");\n\n            \n            \n            Console.WriteLine($\"Произведение: {product}\");\n\n            \n            Console.WriteLine(\"Конец программы\");\n        }\n    }\n}\n"}
+{"@t":"2025-02-26T20:48:52.3270190+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-20-48-52.txt"}
+{"@t":"2025-02-26T20:48:52.3270490+03:00","@mt":"Parsing 2 files"}
+{"@t":"2025-02-26T20:48:52.3270860+03:00","@mt":"Ending parse from Parser"}
+{"@t":"2025-02-26T20:49:29.2481050+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T20:49:29.2829370+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T20:49:29.2830710+03:00","@mt":"Outputting to file True at path: %BASEDIR%\\output\\output-.txt"}
+{"@t":"2025-02-26T20:49:29.2832030+03:00","@mt":"Reading from console..."}
+{"@t":"2025-02-26T20:49:32.2953640+03:00","@mt":"sladksldskjdsakdjasdsdsa\n"}
+{"@t":"2025-02-26T20:49:32.2969530+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-20-49-32.txt"}
+{"@t":"2025-02-26T20:50:29.7900910+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T20:50:29.8250260+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T20:50:29.8251750+03:00","@mt":"Outputting to file True at path: %BASEDIR%\\output\\output-.txt"}
+{"@t":"2025-02-26T20:50:29.8253120+03:00","@mt":"Reading from console..."}
+{"@t":"2025-02-26T20:50:31.3025500+03:00","@mt":""}
+{"@t":"2025-02-26T20:50:31.3052510+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-20-50-31.txt"}
+{"@t":"2025-02-26T20:50:33.6749370+03:00","@mt":""}
+{"@t":"2025-02-26T20:50:33.6761370+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-20-50-33.txt"}
+{"@t":"2025-02-26T20:52:23.6186550+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T20:52:23.6545810+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T20:52:23.6546980+03:00","@mt":"Outputting to file True at path: %BASEDIR%\\output\\output-.txt"}
+{"@t":"2025-02-26T20:52:23.6548310+03:00","@mt":"Reading from console... (Enter 'Cancel' for exit )"}
+{"@t":"2025-02-26T20:52:27.4495810+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out.txt"}
+{"@t":"2025-02-26T20:52:27.4522120+03:00","@mt":"Asdf/.,ds.,asadass.dmalsdsaldjsakld\nLadsjlsajdklsajdklsadjklasdjs\nAlsdjsaljdsaldjsakldjadklas\nLaksdlksadklsakdlsakdjlasklaskdlas\nAskldsajdalskdjlkdsakld\n\nSfdadldjsajdaksdsaklsdjasldksa\nAlksdasldsakjd\nAldjlaskjdsald\n\n\n"}
+{"@t":"2025-02-26T20:52:27.4539180+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-20-52-27.txt"}
+{"@t":"2025-02-26T20:52:27.4540920+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out2.txt"}
+{"@t":"2025-02-26T20:52:27.4543650+03:00","@mt":"using System;\n\nnamespace CommentExample\n{\n    class Program\n    {\n        static void Main(string[] args)\n        {\n            Console.WriteLine(\"Начало программы\"); \n\n            \n            \n\n            \n            \n            Console.WriteLine($\"Сумма: {sum}\");\n\n            \n            \n            Console.WriteLine($\"Произведение: {product}\");\n\n            \n            Console.WriteLine(\"Конец программы\");\n        }\n    }\n}\n"}
+{"@t":"2025-02-26T20:52:27.4561510+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-20-52-27.txt"}
+{"@t":"2025-02-26T20:52:27.4562640+03:00","@mt":"Parsing 2 files"}
+{"@t":"2025-02-26T20:52:27.4563360+03:00","@mt":"Ending parse from Parser"}
+{"@t":"2025-02-26T20:52:52.3714960+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T20:52:52.4047900+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T20:52:52.4049210+03:00","@mt":"Outputting to file True at path: %BASEDIR%\\output\\output-.txt"}
+{"@t":"2025-02-26T20:52:52.4050730+03:00","@mt":"Reading from console... (Enter 'Cancel' for exit )"}
+{"@t":"2025-02-26T20:52:58.7701510+03:00","@mt":"dsldsadksdklsadsa\n"}
+{"@t":"2025-02-26T20:52:58.7711510+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-20-52-58.txt"}
+{"@t":"2025-02-26T20:53:12.7910580+03:00","@mt":";sld;slda;ld;ld;sld;sdadlsa;dld\\nadlkasldsaldkasldklsakdlsakdlsdksldakdlaskd\\\\sddsdsdsd\\\\sdsdsd\n"}
+{"@t":"2025-02-26T20:53:12.7926940+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-20-53-12.txt"}
+{"@t":"2025-02-26T20:53:33.7437060+03:00","@mt":"as.a,s.alsdsds\n"}
+{"@t":"2025-02-26T20:53:33.7466080+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-20-53-33.txt"}
+{"@t":"2025-02-26T20:53:37.4900240+03:00","@mt":"sdsdlksdkldksldskdlkskdlsdklskdlsklsd\n"}
+{"@t":"2025-02-26T20:53:37.4908840+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-20-53-37.txt"}
+{"@t":"2025-02-26T20:54:01.2245970+03:00","@mt":"sldksdlkdksldkldkskdskdlsdksldkdskd              sldklsdkdsksdlsdkldskskdlksldsldskdlsksdksdlksldkkdskdlskdsldksldsklkdsldksldsldsdksldkldksldklsdksldksldklskdsdlsdksldkdlsdkslklskdlslsdksldksdsldksldksldkdsldslkdskdsdlskslkdlskdlskdldsldkslsdsldsdlksldkssdksldsldsldksdlsdlsdklsdldsldsdsldsldksdlsdlssdk\n"}
+{"@t":"2025-02-26T20:54:01.2269750+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-20-54-01.txt"}
+{"@t":"2025-02-26T20:57:32.4871130+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T20:57:32.5286900+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T20:57:32.5288510+03:00","@mt":"Outputting to file True at path: %BASEDIR%\\output\\output-.txt"}
+{"@t":"2025-02-26T20:57:32.5291120+03:00","@mt":"Reading from console... (Press 'Esc' to parse, 'Enter' for new line)"}
+{"@t":"2025-02-26T21:00:15.6596040+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T21:00:15.6964160+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T21:00:15.6965370+03:00","@mt":"Outputting to file True at path: %BASEDIR%\\output\\output-.txt"}
+{"@t":"2025-02-26T21:00:15.6967920+03:00","@mt":"Reading from console... (Press 'Esc' to parse, 'Enter' for new line)"}
+{"@t":"2025-02-26T21:00:30.2663440+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T21:00:30.3007070+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T21:00:30.3008340+03:00","@mt":"Outputting to file True at path: %BASEDIR%\\output\\output-.txt"}
+{"@t":"2025-02-26T21:00:30.3013120+03:00","@mt":"Reading from console... (Press 'Esc' to parse, 'Enter' for new line)"}
+{"@t":"2025-02-26T21:00:31.5846860+03:00","@mt":"Input canceled."}
+{"@t":"2025-02-26T21:00:31.5861810+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out.txt"}
+{"@t":"2025-02-26T21:00:31.5880340+03:00","@mt":"Asdf/.,ds.,asadass.dmalsdsaldjsakld\nLadsjlsajdklsajdklsadjklasdjs\nAlsdjsaljdsaldjsakldjadklas\nLaksdlksadklsakdlsakdjlasklaskdlas\nAskldsajdalskdjlkdsakld\n\nSfdadldjsajdaksdsaklsdjasldksa\nAlksdasldsakjd\nAldjlaskjdsald\n\n\n"}
+{"@t":"2025-02-26T21:00:31.5892220+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-21-00-31.txt"}
+{"@t":"2025-02-26T21:00:31.5893450+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out2.txt"}
+{"@t":"2025-02-26T21:00:31.5895370+03:00","@mt":"using System;\n\nnamespace CommentExample\n{\n    class Program\n    {\n        static void Main(string[] args)\n        {\n            Console.WriteLine(\"Начало программы\"); \n\n            \n            \n\n            \n            \n            Console.WriteLine($\"Сумма: {sum}\");\n\n            \n            \n            Console.WriteLine($\"Произведение: {product}\");\n\n            \n            Console.WriteLine(\"Конец программы\");\n        }\n    }\n}\n"}
+{"@t":"2025-02-26T21:00:31.5908580+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-21-00-31.txt"}
+{"@t":"2025-02-26T21:00:31.5909830+03:00","@mt":"Parsing 2 files"}
+{"@t":"2025-02-26T21:00:31.5910550+03:00","@mt":"Ending parse from Parser"}
+{"@t":"2025-02-26T21:01:45.4651950+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T21:01:45.5007190+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T21:01:45.5008640+03:00","@mt":"Outputting to file True at path: %BASEDIR%\\output\\output-.txt"}
+{"@t":"2025-02-26T21:01:45.5010900+03:00","@mt":"Reading from console... (Press 'Esc' to parse, 'Enter' for new line)"}
+{"@t":"2025-02-26T21:03:49.6311580+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T21:03:49.6672540+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T21:03:49.6673890+03:00","@mt":"Outputting to file True at path: %BASEDIR%\\output\\output-.txt"}
+{"@t":"2025-02-26T21:03:49.6676440+03:00","@mt":"Reading from console... (Press 'Esc' to parse, 'Enter' for new line)"}
+{"@t":"2025-02-26T21:04:14.3019660+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T21:04:14.3353770+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T21:04:14.3355080+03:00","@mt":"Outputting to file True at path: %BASEDIR%\\output\\output-.txt"}
+{"@t":"2025-02-26T21:04:14.3357610+03:00","@mt":"Reading from console... (Press 'Esc' to parse, 'Enter' for new line)"}
+{"@t":"2025-02-26T21:05:00.4082380+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T21:05:00.4419200+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T21:05:00.4420440+03:00","@mt":"Outputting to file True at path: %BASEDIR%\\output\\output-.txt"}
+{"@t":"2025-02-26T21:05:00.4423010+03:00","@mt":"Reading from console... (Press 'Esc' to parse, 'Enter' for new line)"}
+{"@t":"2025-02-26T21:05:01.8268300+03:00","@mt":""}
+{"@t":"2025-02-26T21:05:01.8312060+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-21-05-01.txt"}
+{"@t":"2025-02-26T21:05:01.8315100+03:00","@mt":"Enter new input or press 'Cancel' to exit."}
+{"@t":"2025-02-26T21:05:35.9060930+03:00","@mt":",zcm,cmx,m,xmc,zm,cmx,cmzxc,zx\nsd;lldlkasdksldksad\n"}
+{"@t":"2025-02-26T21:05:35.9089650+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-21-05-35.txt"}
+{"@t":"2025-02-26T21:05:35.9091900+03:00","@mt":"Enter new input or press 'Cancel' to exit."}
+{"@t":"2025-02-26T21:06:25.5461970+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T21:06:25.5830340+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T21:06:25.5832120+03:00","@mt":"Outputting to file True at path: %BASEDIR%\\output\\output-.txt"}
+{"@t":"2025-02-26T21:06:25.5834770+03:00","@mt":"Reading from console... (Press 'Esc' to parse, 'Enter' for new line)"}
+{"@t":"2025-02-26T21:06:50.9755590+03:00","@mt":"\nlskdakdlsakdsldksald\ns;ldlkdsalkdksl;dasds/asdaskdsakdsaldsadkasd\nsa;dksa;kdsad;alkdas\n"}
+{"@t":"2025-02-26T21:06:50.9779450+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-21-06-50.txt"}
+{"@t":"2025-02-26T21:06:50.9780970+03:00","@mt":"Enter new input or press 'Cancel' to exit."}
+{"@t":"2025-02-26T21:07:52.1953840+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T21:07:52.2311280+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T21:07:52.2312550+03:00","@mt":"Outputting to file True at path: %BASEDIR%\\output\\output-.txt"}
+{"@t":"2025-02-26T21:07:52.2315080+03:00","@mt":"Reading from console... (Press 'Esc' to parse, 'Enter' for new line)"}
+{"@t":"2025-02-26T21:08:02.9680030+03:00","@mt":"\n\u0008\n\n\n\n"}
+{"@t":"2025-02-26T21:08:02.9715790+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-21-08-02.txt"}
+{"@t":"2025-02-26T21:08:02.9717950+03:00","@mt":"Enter new input or press 'Cancel' to exit."}
+{"@t":"2025-02-26T21:08:43.3459810+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T21:08:43.3796990+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T21:08:43.3798250+03:00","@mt":"Outputting to file True at path: %BASEDIR%\\output\\output-.txt"}
+{"@t":"2025-02-26T21:08:43.3800740+03:00","@mt":"Reading from console... (Press 'Esc' to parse, 'Enter' for new line)"}
+{"@t":"2025-02-26T21:09:07.5756340+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T21:09:07.6099320+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T21:09:07.6100700+03:00","@mt":"Outputting to file True at path: %BASEDIR%\\output\\output-.txt"}
+{"@t":"2025-02-26T21:09:07.6103200+03:00","@mt":"Reading from console... (Press 'Esc' to parse, 'Enter' for new line)"}
+{"@t":"2025-02-26T21:09:23.8449570+03:00","@mt":"\n"}
+{"@t":"2025-02-26T21:09:23.8488530+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-21-09-23.txt"}
+{"@t":"2025-02-26T21:09:23.8490400+03:00","@mt":"Enter new input or press 'Cancel' to exit."}
+{"@t":"2025-02-26T21:09:33.6588230+03:00","@mt":"\n"}
+{"@t":"2025-02-26T21:09:33.6607410+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-21-09-33.txt"}
+{"@t":"2025-02-26T21:09:33.6609920+03:00","@mt":"Enter new input or press 'Cancel' to exit."}
+{"@t":"2025-02-26T21:09:34.3048320+03:00","@mt":"\n"}
+{"@t":"2025-02-26T21:09:34.3060340+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-21-09-34.txt"}
+{"@t":"2025-02-26T21:09:34.3062580+03:00","@mt":"Enter new input or press 'Cancel' to exit."}
+{"@t":"2025-02-26T21:09:37.2641810+03:00","@mt":"\naskjksaldjklakdklsdjkla\n"}
+{"@t":"2025-02-26T21:09:37.2648990+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-21-09-37.txt"}
+{"@t":"2025-02-26T21:09:37.2649960+03:00","@mt":"Enter new input or press 'Cancel' to exit."}
+{"@t":"2025-02-26T21:09:43.0565610+03:00","@mt":"\nksdasakldsakldjsldkdjklsdjaldsldsajdsaldjk\n"}
+{"@t":"2025-02-26T21:09:43.0591990+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-21-09-43.txt"}
+{"@t":"2025-02-26T21:09:43.0593830+03:00","@mt":"Enter new input or press 'Cancel' to exit."}
+{"@t":"2025-02-26T21:10:01.7996310+03:00","@mt":"\nCancel\n"}
+{"@t":"2025-02-26T21:10:01.8030000+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-21-10-01.txt"}
+{"@t":"2025-02-26T21:10:01.8031310+03:00","@mt":"Enter new input or press 'Cancel' to exit."}
+{"@t":"2025-02-26T21:10:03.1712410+03:00","@mt":"\n"}
+{"@t":"2025-02-26T21:10:03.1722970+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-21-10-03.txt"}
+{"@t":"2025-02-26T21:10:03.1725360+03:00","@mt":"Enter new input or press 'Cancel' to exit."}
+{"@t":"2025-02-26T21:10:03.6365050+03:00","@mt":"\n"}
+{"@t":"2025-02-26T21:10:03.6370930+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-21-10-03.txt"}
+{"@t":"2025-02-26T21:10:03.6372350+03:00","@mt":"Enter new input or press 'Cancel' to exit."}
+{"@t":"2025-02-26T21:10:03.8514900+03:00","@mt":"\n"}
+{"@t":"2025-02-26T21:10:03.8519270+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-21-10-03.txt"}
+{"@t":"2025-02-26T21:10:03.8520140+03:00","@mt":"Enter new input or press 'Cancel' to exit."}
+{"@t":"2025-02-26T21:10:04.0413930+03:00","@mt":"\n"}
+{"@t":"2025-02-26T21:10:04.0422210+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-21-10-04.txt"}
+{"@t":"2025-02-26T21:10:04.0423810+03:00","@mt":"Enter new input or press 'Cancel' to exit."}
+{"@t":"2025-02-26T21:10:04.2344260+03:00","@mt":"\n"}
+{"@t":"2025-02-26T21:10:04.2353260+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-21-10-04.txt"}
+{"@t":"2025-02-26T21:10:04.2355050+03:00","@mt":"Enter new input or press 'Cancel' to exit."}
+{"@t":"2025-02-26T21:10:12.0405690+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T21:10:12.0750800+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T21:10:12.0752030+03:00","@mt":"Outputting to file True at path: %BASEDIR%\\output\\output-.txt"}
+{"@t":"2025-02-26T21:10:12.0754580+03:00","@mt":"Reading from console... (Press 'Esc' to parse, 'Enter' for new line)"}
+{"@t":"2025-02-26T21:11:07.9992170+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T21:11:08.0358580+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T21:11:08.0359940+03:00","@mt":"Outputting to file True at path: %BASEDIR%\\output\\output-.txt"}
+{"@t":"2025-02-26T21:11:08.0363220+03:00","@mt":"Reading from console... (Press 'Esc' to parse, 'Enter' for new line)"}
+{"@t":"2025-02-26T21:11:45.5035200+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T21:11:45.5428630+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T21:11:45.5430130+03:00","@mt":"Outputting to file True at path: %BASEDIR%\\output\\output-.txt"}
+{"@t":"2025-02-26T21:11:45.5432780+03:00","@mt":"Reading from console... (Press 'Esc' to parse, 'Enter' for new line)"}
+{"@t":"2025-02-26T21:11:48.8920650+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T21:11:48.9402370+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T21:11:48.9404150+03:00","@mt":"Outputting to file True at path: %BASEDIR%\\output\\output-.txt"}
+{"@t":"2025-02-26T21:11:48.9407060+03:00","@mt":"Reading from console... (Press 'Esc' to parse, 'Enter' for new line)"}
+{"@t":"2025-02-26T21:11:58.0998490+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T21:11:58.1362150+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T21:11:58.1363380+03:00","@mt":"Outputting to file True at path: %BASEDIR%\\output\\output-.txt"}
+{"@t":"2025-02-26T21:11:58.1366160+03:00","@mt":"Reading from console... (Press 'Esc' to parse, 'Enter' for new line)"}
+{"@t":"2025-02-26T21:12:13.7438820+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T21:12:13.7904720+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T21:12:13.7906360+03:00","@mt":"Outputting to file True at path: %BASEDIR%\\output\\output-.txt"}
+{"@t":"2025-02-26T21:12:13.7909060+03:00","@mt":"Reading from console... (Press 'Esc' to parse, 'Enter' for new line)"}
+{"@t":"2025-02-26T21:12:17.8836470+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T21:12:17.9199280+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T21:12:17.9204420+03:00","@mt":"Outputting to file True at path: %BASEDIR%\\output\\output-.txt"}
+{"@t":"2025-02-26T21:12:17.9207140+03:00","@mt":"Reading from console... (Press 'Esc' to parse, 'Enter' for new line)"}
+{"@t":"2025-02-26T21:12:22.2888080+03:00","@mt":"\n\n\n\n\n"}
+{"@t":"2025-02-26T21:12:22.2913140+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-21-12-22.txt"}
+{"@t":"2025-02-26T21:12:22.2915240+03:00","@mt":"Enter new input or press 'Cancel' to exit."}
+{"@t":"2025-02-26T21:14:13.8446930+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T21:14:13.8939850+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T21:14:13.8941330+03:00","@mt":"Outputting to file True at path: %BASEDIR%\\output\\output-.txt"}
+{"@t":"2025-02-26T21:14:13.8943910+03:00","@mt":"Reading from console... (Press 'Esc' to parse, 'Enter' for new line)"}
+{"@t":"2025-02-26T21:14:22.3959870+03:00","@mt":"\nлываодыщлвдывфыдвфлыдв\nфыввылыфлвфоыв\n"}
+{"@t":"2025-02-26T21:14:22.3981930+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-21-14-22.txt"}
+{"@t":"2025-02-26T21:14:22.3984000+03:00","@mt":"Enter new input or press 'Cancel' to exit."}
+{"@t":"2025-02-26T21:16:14.7303470+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T21:16:14.7679580+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T21:16:14.7681070+03:00","@mt":"Outputting to file True at path: %BASEDIR%\\output\\output-.txt"}
+{"@t":"2025-02-26T21:16:14.7683900+03:00","@mt":"Reading from console... (Press 'Esc' to parse, 'Enter' for new line)"}
+{"@t":"2025-02-26T21:16:24.8398600+03:00","@mt":"\nыдлыфжыфвывдыфв\nыывыфвфы\n"}
+{"@t":"2025-02-26T21:16:24.8417060+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-21-16-24.txt"}
+{"@t":"2025-02-26T21:16:24.8418820+03:00","@mt":"Enter new input or press 'Esc' to exit."}
+{"@t":"2025-02-26T21:16:29.1204950+03:00","@mt":"Exiting..."}
+{"@t":"2025-02-26T21:16:29.1219630+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out.txt"}
+{"@t":"2025-02-26T21:16:29.1223250+03:00","@mt":"\nAsdf/.,ds.,asadass.dmalsdsaldjsakld\nLadsjlsajdklsajdklsadjklasdjs\nAlsdjsaljdsaldjsakldjadklas\nLaksdlksadklsakdlsakdjlasklaskdlas\nAskldsajdalskdjlkdsakld\n\nSfdadldjsajdaksdsaklsdjasldksa\nAlksdasldsakjd\nAldjlaskjdsald\n\n\n"}
+{"@t":"2025-02-26T21:16:29.1229210+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-21-16-29.txt"}
+{"@t":"2025-02-26T21:16:29.1230440+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out2.txt"}
+{"@t":"2025-02-26T21:16:29.1232400+03:00","@mt":"\nusing System;\n\nnamespace CommentExample\n{\n    class Program\n    {\n        static void Main(string[] args)\n        {\n            Console.WriteLine(\"Начало программы\"); \n\n            \n            \n\n            \n            \n            Console.WriteLine($\"Сумма: {sum}\");\n\n            \n            \n            Console.WriteLine($\"Произведение: {product}\");\n\n            \n            Console.WriteLine(\"Конец программы\");\n        }\n    }\n}\n"}
+{"@t":"2025-02-26T21:16:29.1247260+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-21-16-29.txt"}
+{"@t":"2025-02-26T21:16:29.1248650+03:00","@mt":"Parsing 2 files"}
+{"@t":"2025-02-26T21:16:29.1249400+03:00","@mt":"Ending parse from Parser"}
+{"@t":"2025-02-26T21:17:01.4216740+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T21:17:01.4603580+03:00","@mt":"Outputting to console: True"}
+{"@t":"2025-02-26T21:17:01.4604800+03:00","@mt":"Outputting to file True at path: %BASEDIR%\\output\\output-.txt"}
+{"@t":"2025-02-26T21:17:01.4607520+03:00","@mt":"Reading from console... (Press 'Esc' to parse, 'Enter' for new line)"}
+{"@t":"2025-02-26T21:17:09.5701780+03:00","@mt":"\nдывлсджалывлжджывлаыв\nывжаывжалвыжажывла\n"}
+{"@t":"2025-02-26T21:17:09.5713590+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-21-17-09.txt"}
+{"@t":"2025-02-26T21:17:09.5714640+03:00","@mt":"Enter new input or press 'Esc' to exit."}
+{"@t":"2025-02-26T21:17:18.8554860+03:00","@mt":"\nлвыфвлфыдвыфвджыфвджлвжыфдвл\nфывыфвфывывлфывфы\n"}
+{"@t":"2025-02-26T21:17:18.8578790+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-21-17-18.txt"}
+{"@t":"2025-02-26T21:17:18.8580930+03:00","@mt":"Enter new input or press 'Esc' to exit."}
+{"@t":"2025-02-26T21:17:22.0690760+03:00","@mt":"Exiting..."}
+{"@t":"2025-02-26T21:17:22.0709470+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out.txt"}
+{"@t":"2025-02-26T21:17:22.0715150+03:00","@mt":"\nAsdf/.,ds.,asadass.dmalsdsaldjsakld\nLadsjlsajdklsajdklsadjklasdjs\nAlsdjsaljdsaldjsakldjadklas\nLaksdlksadklsakdlsakdjlasklaskdlas\nAskldsajdalskdjlkdsakld\n\nSfdadldjsajdaksdsaklsdjasldksa\nAlksdasldsakjd\nAldjlaskjdsald\n\n\n"}
+{"@t":"2025-02-26T21:17:22.0723130+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-21-17-22.txt"}
+{"@t":"2025-02-26T21:17:22.0730410+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out2.txt"}
+{"@t":"2025-02-26T21:17:22.0733960+03:00","@mt":"\nusing System;\n\nnamespace CommentExample\n{\n    class Program\n    {\n        static void Main(string[] args)\n        {\n            Console.WriteLine(\"Начало программы\"); \n\n            \n            \n\n            \n            \n            Console.WriteLine($\"Сумма: {sum}\");\n\n            \n            \n            Console.WriteLine($\"Произведение: {product}\");\n\n            \n            Console.WriteLine(\"Конец программы\");\n        }\n    }\n}\n"}
+{"@t":"2025-02-26T21:17:22.0756180+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-21-17-22.txt"}
+{"@t":"2025-02-26T21:17:22.0758380+03:00","@mt":"Parsing 2 files"}
+{"@t":"2025-02-26T21:17:22.0759370+03:00","@mt":"Ending parse from Parser"}
+{"@t":"2025-02-26T21:19:17.1124990+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T21:19:17.1596430+03:00","@mt":"Outputting to console:  \"True\""}
+{"@t":"2025-02-26T21:19:17.1598090+03:00","@mt":"Outputting to file True at path: %BASEDIR%\\output\\output-.txt"}
+{"@t":"2025-02-26T21:19:17.1600950+03:00","@mt":"Reading from console... (Press 'Esc' to parse, 'Enter' for new line)"}
+{"@t":"2025-02-26T21:19:40.7577920+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T21:19:40.8039280+03:00","@mt":"Outputting to console:  \"{_settings.Output.Console}\""}
+{"@t":"2025-02-26T21:19:40.8052910+03:00","@mt":"Outputting to file True at path: %BASEDIR%\\output\\output-.txt"}
+{"@t":"2025-02-26T21:19:40.8056110+03:00","@mt":"Reading from console... (Press 'Esc' to parse, 'Enter' for new line)"}
+{"@t":"2025-02-26T21:21:15.4114710+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T21:21:15.4491010+03:00","@mt":"Outputting to console:  \"{console}\"","console":true}
+{"@t":"2025-02-26T21:21:15.4509950+03:00","@mt":"Outputting to file True at path: %BASEDIR%\\output\\output-.txt"}
+{"@t":"2025-02-26T21:21:15.4512790+03:00","@mt":"Reading from console... (Press 'Esc' to parse, 'Enter' for new line)"}
+{"@t":"2025-02-26T21:21:35.0071580+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T21:21:35.0416920+03:00","@mt":"Outputting to console:  {console}","console":true}
+{"@t":"2025-02-26T21:21:35.0435350+03:00","@mt":"Outputting to file True at path: %BASEDIR%\\output\\output-.txt"}
+{"@t":"2025-02-26T21:21:35.0438180+03:00","@mt":"Reading from console... (Press 'Esc' to parse, 'Enter' for new line)"}
+{"@t":"2025-02-26T21:23:33.8783890+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T21:23:33.9217210+03:00","@mt":"Outputting to console:  {console}","console":true}
+{"@t":"2025-02-26T21:23:33.9241700+03:00","@mt":"Outputting to file {file} at path: {path}","file":true,"path":"%BASEDIR%\\output\\output-.txt"}
+{"@t":"2025-02-26T21:23:33.9245440+03:00","@mt":"Reading from console... (Press 'Esc' to parse, 'Enter' for new line)"}
+{"@t":"2025-02-26T21:24:13.3356950+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T21:24:13.3775950+03:00","@mt":"Outputting to console:  {console}","console":true}
+{"@t":"2025-02-26T21:24:13.3801470+03:00","@mt":"Outputting to file {file} at path: {path}","file":true,"path":"%BASEDIR%\\output\\output-.txt"}
+{"@t":"2025-02-26T21:24:13.3805370+03:00","@mt":"Reading from console... (Press 'Esc' to parse, 'Enter' for new line)"}
+{"@t":"2025-02-26T21:24:17.3888050+03:00","@mt":"\n"}
+{"@t":"2025-02-26T21:24:17.3917460+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-21-24-17.txt"}
+{"@t":"2025-02-26T21:24:17.3919800+03:00","@mt":"Enter new input or press 'Esc' to exit."}
+{"@t":"2025-02-26T21:24:19.8659290+03:00","@mt":"Exiting..."}
+{"@t":"2025-02-26T21:24:19.8680050+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out.txt"}
+{"@t":"2025-02-26T21:24:19.8687210+03:00","@mt":"\nAsdf/.,ds.,asadass.dmalsdsaldjsakld\nLadsjlsajdklsajdklsadjklasdjs\nAlsdjsaljdsaldjsakldjadklas\nLaksdlksadklsakdlsakdjlasklaskdlas\nAskldsajdalskdjlkdsakld\n\nSfdadldjsajdaksdsaklsdjasldksa\nAlksdasldsakjd\nAldjlaskjdsald\n\n\n"}
+{"@t":"2025-02-26T21:24:19.8697170+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-21-24-19.txt"}
+{"@t":"2025-02-26T21:24:19.8698480+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out2.txt"}
+{"@t":"2025-02-26T21:24:19.8700650+03:00","@mt":"\nusing System;\n\nnamespace CommentExample\n{\n    class Program\n    {\n        static void Main(string[] args)\n        {\n            Console.WriteLine(\"Начало программы\"); \n\n            \n            \n\n            \n            \n            Console.WriteLine($\"Сумма: {sum}\");\n\n            \n            \n            Console.WriteLine($\"Произведение: {product}\");\n\n            \n            Console.WriteLine(\"Конец программы\");\n        }\n    }\n}\n"}
+{"@t":"2025-02-26T21:24:19.8708090+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-21-24-19.txt"}
+{"@t":"2025-02-26T21:24:19.8713540+03:00","@mt":"Parsing {count} files","count":2}
+{"@t":"2025-02-26T21:24:19.8723730+03:00","@mt":"Ending parse from Parser"}
+{"@t":"2025-02-26T21:26:13.4533110+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T21:26:13.4960020+03:00","@mt":"Outputting to console:  {console}","console":true}
+{"@t":"2025-02-26T21:26:13.4989350+03:00","@mt":"Outputting to file {file} at path: {path}","file":true,"path":"%BASEDIR%\\output\\output-.txt"}
+{"@t":"2025-02-26T21:26:13.4994020+03:00","@mt":"Reading from console... (Press 'Esc' to parse, 'Enter' for new line)"}
+{"@t":"2025-02-26T21:26:18.0257680+03:00","@mt":""}
+{"@t":"2025-02-26T21:26:18.0276770+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-21-26-18.txt"}
+{"@t":"2025-02-26T21:26:18.0279270+03:00","@mt":"Enter new input or press 'Esc' to exit."}
+{"@t":"2025-02-26T21:26:19.4197140+03:00","@mt":"Exiting..."}
+{"@t":"2025-02-26T21:26:19.4221580+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out.txt"}
+{"@t":"2025-02-26T21:26:19.4228750+03:00","@mt":"\nAsdf/.,ds.,asadass.dmalsdsaldjsakld\nLadsjlsajdklsajdklsadjklasdjs\nAlsdjsaljdsaldjsakldjadklas\nLaksdlksadklsakdlsakdjlasklaskdlas\nAskldsajdalskdjlkdsakld\n\nSfdadldjsajdaksdsaklsdjasldksa\nAlksdasldsakjd\nAldjlaskjdsald\n\n\n"}
+{"@t":"2025-02-26T21:26:19.4246600+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-21-26-19.txt"}
+{"@t":"2025-02-26T21:26:19.4249130+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out2.txt"}
+{"@t":"2025-02-26T21:26:19.4253510+03:00","@mt":"\nusing System;\n\nnamespace CommentExample\n{\n    class Program\n    {\n        static void Main(string[] args)\n        {\n            Console.WriteLine(\"Начало программы\"); \n\n            \n            \n\n            \n            \n            Console.WriteLine($\"Сумма: {sum}\");\n\n            \n            \n            Console.WriteLine($\"Произведение: {product}\");\n\n            \n            Console.WriteLine(\"Конец программы\");\n        }\n    }\n}\n"}
+{"@t":"2025-02-26T21:26:19.4258010+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-21-26-19.txt"}
+{"@t":"2025-02-26T21:26:19.4261430+03:00","@mt":"Parsing {count} files","count":2}
+{"@t":"2025-02-26T21:26:19.4272230+03:00","@mt":"Ending parse from Parser"}
+{"@t":"2025-02-26T21:27:35.9393200+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T21:27:35.9759470+03:00","@mt":"Outputting to console:  {console}","console":true}
+{"@t":"2025-02-26T21:27:35.9778410+03:00","@mt":"Outputting to file {file} at path: {path}","file":true,"path":"%BASEDIR%\\output\\output-.txt"}
+{"@t":"2025-02-26T21:27:35.9781630+03:00","@mt":"Reading from console... (Press 'Esc' to parse, 'Enter' for new line)"}
+{"@t":"2025-02-26T21:27:38.0018570+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-21-27-37.txt"}
+{"@t":"2025-02-26T21:27:38.0023910+03:00","@mt":"Enter new input or press 'Esc' to exit."}
+{"@t":"2025-02-26T21:27:49.2224320+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-21-27-49.txt"}
+{"@t":"2025-02-26T21:27:49.2234920+03:00","@mt":"Enter new input or press 'Esc' to exit."}
+{"@t":"2025-02-26T21:27:51.2088390+03:00","@mt":"Exiting..."}
+{"@t":"2025-02-26T21:27:51.2106790+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out.txt"}
+{"@t":"2025-02-26T21:27:51.2111140+03:00","@mt":"\nAsdf/.,ds.,asadass.dmalsdsaldjsakld\nLadsjlsajdklsajdklsadjklasdjs\nAlsdjsaljdsaldjsakldjadklas\nLaksdlksadklsakdlsakdjlasklaskdlas\nAskldsajdalskdjlkdsakld\n\nSfdadldjsajdaksdsaklsdjasldksa\nAlksdasldsakjd\nAldjlaskjdsald\n\n\n"}
+{"@t":"2025-02-26T21:27:51.2118380+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-21-27-51.txt"}
+{"@t":"2025-02-26T21:27:51.2120960+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out2.txt"}
+{"@t":"2025-02-26T21:27:51.2122370+03:00","@mt":"\nusing System;\n\nnamespace CommentExample\n{\n    class Program\n    {\n        static void Main(string[] args)\n        {\n            Console.WriteLine(\"Начало программы\"); \n\n            \n            \n\n            \n            \n            Console.WriteLine($\"Сумма: {sum}\");\n\n            \n            \n            Console.WriteLine($\"Произведение: {product}\");\n\n            \n            Console.WriteLine(\"Конец программы\");\n        }\n    }\n}\n"}
+{"@t":"2025-02-26T21:27:51.2128680+03:00","@mt":"Output written to: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-21-27-51.txt"}
+{"@t":"2025-02-26T21:27:51.2131990+03:00","@mt":"Parsing {count} files","count":2}
+{"@t":"2025-02-26T21:27:51.2138710+03:00","@mt":"Ending parse from Parser"}
+{"@t":"2025-02-26T21:29:01.3720060+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T21:29:01.4074640+03:00","@mt":"Outputting to console:  {console}","console":true}
+{"@t":"2025-02-26T21:29:01.4092780+03:00","@mt":"Outputting to file {file} at path: {path}","file":true,"path":"%BASEDIR%\\output\\output-.txt"}
+{"@t":"2025-02-26T21:29:01.4096080+03:00","@mt":"Reading from console... (Press 'Esc' to parse, 'Enter' for new line)"}
+{"@t":"2025-02-26T21:29:05.2174980+03:00","@mt":"Output written to: {path}","path":"/Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-21-29-05.txt"}
+{"@t":"2025-02-26T21:29:05.2178560+03:00","@mt":"Enter new input or press 'Esc' to exit."}
+{"@t":"2025-02-26T21:29:07.6159500+03:00","@mt":"Exiting..."}
+{"@t":"2025-02-26T21:29:07.6184660+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out.txt"}
+{"@t":"2025-02-26T21:29:07.6192360+03:00","@mt":"\nAsdf/.,ds.,asadass.dmalsdsaldjsakld\nLadsjlsajdklsajdklsadjklasdjs\nAlsdjsaljdsaldjsakldjadklas\nLaksdlksadklsakdlsakdjlasklaskdlas\nAskldsajdalskdjlkdsakld\n\nSfdadldjsajdaksdsaklsdjasldksa\nAlksdasldsakjd\nAldjlaskjdsald\n\n\n"}
+{"@t":"2025-02-26T21:29:07.6211500+03:00","@mt":"Output written to: {path}","path":"/Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-21-29-07.txt"}
+{"@t":"2025-02-26T21:29:07.6214180+03:00","@mt":"Reading file: /Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out2.txt"}
+{"@t":"2025-02-26T21:29:07.6217420+03:00","@mt":"\nusing System;\n\nnamespace CommentExample\n{\n    class Program\n    {\n        static void Main(string[] args)\n        {\n            Console.WriteLine(\"Начало программы\"); \n\n            \n            \n\n            \n            \n            Console.WriteLine($\"Сумма: {sum}\");\n\n            \n            \n            Console.WriteLine($\"Произведение: {product}\");\n\n            \n            Console.WriteLine(\"Конец программы\");\n        }\n    }\n}\n"}
+{"@t":"2025-02-26T21:29:07.6231100+03:00","@mt":"Output written to: {path}","path":"/Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-21-29-07.txt"}
+{"@t":"2025-02-26T21:29:07.6239680+03:00","@mt":"Parsing {count} files","count":2}
+{"@t":"2025-02-26T21:29:07.6252130+03:00","@mt":"Ending parse from Parser"}
+{"@t":"2025-02-26T21:29:34.4769900+03:00","@mt":"Starting parse from Parser"}
+{"@t":"2025-02-26T21:29:34.5140050+03:00","@mt":"Outputting to console:  {console}","console":true}
+{"@t":"2025-02-26T21:29:34.5163070+03:00","@mt":"Outputting to file {file} at path: {path}","file":true,"path":"%BASEDIR%\\output\\output-.txt"}
+{"@t":"2025-02-26T21:29:34.5166950+03:00","@mt":"Reading from console... (Press 'Esc' to parse, 'Enter' for new line)"}
+{"@t":"2025-02-26T21:29:38.1014020+03:00","@mt":"Output written to: {path}","path":"/Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-21-29-38.txt"}
+{"@t":"2025-02-26T21:29:38.1017090+03:00","@mt":"Enter new input or press 'Esc' to exit."}
+{"@t":"2025-02-26T21:29:39.9451750+03:00","@mt":"Exiting..."}
+{"@t":"2025-02-26T21:29:39.9472020+03:00","@mt":"Reading file: {path}","path":"/Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out.txt"}
+{"@t":"2025-02-26T21:29:39.9478870+03:00","@mt":"\nAsdf/.,ds.,asadass.dmalsdsaldjsakld\nLadsjlsajdklsajdklsadjklasdjs\nAlsdjsaljdsaldjsakldjadklas\nLaksdlksadklsakdlsakdjlasklaskdlas\nAskldsajdalskdjlkdsakld\n\nSfdadldjsajdaksdsaklsdjasldksa\nAlksdasldsakjd\nAldjlaskjdsald\n\n\n"}
+{"@t":"2025-02-26T21:29:39.9491160+03:00","@mt":"Output written to: {path}","path":"/Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-21-29-39.txt"}
+{"@t":"2025-02-26T21:29:39.9493140+03:00","@mt":"Reading file: {path}","path":"/Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/out2.txt"}
+{"@t":"2025-02-26T21:29:39.9495250+03:00","@mt":"\nusing System;\n\nnamespace CommentExample\n{\n    class Program\n    {\n        static void Main(string[] args)\n        {\n            Console.WriteLine(\"Начало программы\"); \n\n            \n            \n\n            \n            \n            Console.WriteLine($\"Сумма: {sum}\");\n\n            \n            \n            Console.WriteLine($\"Произведение: {product}\");\n\n            \n            Console.WriteLine(\"Конец программы\");\n        }\n    }\n}\n"}
+{"@t":"2025-02-26T21:29:39.9503740+03:00","@mt":"Output written to: {path}","path":"/Users/nikx/RiderProjects/ParserComments/Client/bin/Debug/net9.0/output/output-2025-02-26-21-29-39.txt"}
+{"@t":"2025-02-26T21:29:39.9508930+03:00","@mt":"Parsing {count} files","count":2}
+{"@t":"2025-02-26T21:29:39.9519440+03:00","@mt":"Ending parse from Parser"}

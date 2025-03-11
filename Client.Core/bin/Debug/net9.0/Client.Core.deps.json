@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Client.Core/1.0.0": {
+        "dependencies": {
+          "Serilog": "4.2.1-dev-02340"
+        },
+        "runtime": {
+          "Client.Core.dll": {}
+        }
+      },
+      "Serilog/4.2.1-dev-02340": {
+        "runtime": {
+          "lib/net9.0/Serilog.dll": {
+            "assemblyVersion": "4.2.0.0",
+            "fileVersion": "4.2.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Client.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Serilog/4.2.1-dev-02340": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CCWT2Cnh963brjYZpfFieoXSicgecLMN7+XUL2OSOnxp0NgeWXTDDVcdXEwX3RLUH4UoOJpWsH3qpNdOrfqBTA==",
+      "path": "serilog/4.2.1-dev-02340",
+      "hashPath": "serilog.4.2.1-dev-02340.nupkg.sha512"
+    }
+  }
+}
